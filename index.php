@@ -1,5 +1,5 @@
 <?php include('header.php'); ?>
-<title>Furnace, Air Conditioning|Home Generator | Jack's Heating and Cooling | Lapeer, Caro, Michigan</title>
+<title>Paitson Bros. Heating and Air Conditioning</title>
 
 <?php include('menu.php'); ?>
 
@@ -172,7 +172,8 @@
                 <div class="row">
                     <div class="col-md-6">
                         <h2>Your Comfort Is Our Business</h2>
-                        <p>Jack's Heating and Cooling is the premier HVAC company in the southeast Michigan
+                        <p>Paitson Bros. Heating and Air Conditioning is the premier HVAC company in the southeast
+                            Michigan
                             area. Since
                             1995,
                             we have been proudly serving the local community with our outstanding heating and air

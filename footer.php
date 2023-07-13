@@ -5,7 +5,7 @@
             <div class="col-md-5 col-sm-12 col-xs-12 footer-item">
 
                 <h3>About Us</h3>
-                <p><img src="<?php echo $base_url ?>/img/footer-logo.png" width="180"></p>
+                <p><img src="<?php echo $base_url ?>/img/footer-logo.png" width="150"></p>
                 <p class="light">"When brothers Bob and Stanley Paitson started their heating and hardware business in
                     1922, they had no idea the impact their small business would have on generations of Wabash Valley
                     homes and businesses... "</p>
@@ -54,7 +54,7 @@
             <div class="col-md-4 col-sm-12 col-xs-12 footer-item">
                 <h3 class="contact-footer">Contact Us</h3>
                 <p><strong>Address:</strong> <br>
-                    Lorem ipsum dolor, sit amet <br>
+                    1200 Wabash Avenue, <br> Terre Haute,<br> Indiana 47807,<br> customerservice@paitson.com <br>
                     (812) 232-2347</p>
                 <p><a href="<?php echo $base_url ?>/privacy.php">Terms of Service and Privacy Policy</a></p>
                 <!--  <p><a href="https://www.facebook.com/888797jack/" class="facebook-icon current">facebook </a></p> -->
