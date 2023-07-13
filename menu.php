@@ -19,8 +19,7 @@
                         src="<?php echo $base_url ?>/img/logo.png" width="150" /></a> </div>
 
             <div class="col-md-4  header-btn-wrap">
-                <a href="<?php echo $base_url ?>/contact-us.php" class="btn btn-warning"
-                    style="margin-top:18px;">Request Service</a>
+                <a href="<?php echo $base_url ?>/contact-us.php" class="btn btn-warning">Request Service</a>
             </div>
         </div>
     </div>
