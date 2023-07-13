@@ -219,13 +219,9 @@
                     <div class="col-sm-12 item  owl-item">
 
                         <p class="light text-center ">
-                        <p class="light text-center ">Very professional and impressed with the overall installation of
-                            our new
-                            furnace and ac unit. The job was left clean and the installers were great. Would highly
-                            recommend 911
-                            Mechanical. </p>
+                        <p class="light text-center ">They were very helpful, fast and friendly. Great service! </p>
 
-                        <h3 class="text-center">C.B </h3>
+                        <h3 class="text-center">Cindy P. </h3>
 
                     </div>
 
@@ -235,13 +231,10 @@
                     <div class="col-sm-12 item  owl-item">
 
                         <p class="light text-center ">
-                        <p class="light text-center ">The technicians were on time and friendly. They replaced my
-                            furnace and air
-                            conditioner. They explained what they were going to do before they started and answered all
-                            my questions.
-                            Would definitely recommend them!</p>
+                        <p class="light text-center ">Very prompt and explained all services well. I'd recommend to
+                            anyone needing services. Very impressed.</p>
 
-                        <h3 class="text-center">J.S</h3>
+                        <h3 class="text-center">Sherry M.</h3>
 
                     </div>
 
@@ -251,11 +244,10 @@
                     <div class="col-sm-12 item  owl-item">
 
                         <p class="light text-center ">
-                        <p class="light text-center ">911 Mechanical Heating-Cooling has a few finest technicians
-                            working at this
-                            company. They have experience and they are truly professional.</p>
+                        <p class="light text-center ">Spring checkup, very professional and friendly. Always good
+                            experiences with Paitson.</p>
 
-                        <h3 class="text-center">S.K</h3>
+                        <h3 class="text-center">George M.</h3>
 
                     </div>
 
@@ -265,26 +257,21 @@
                     <div class="col-sm-12 item  owl-item">
 
                         <p class="light text-center ">
-                        <p class="light text-center ">The entire experience was excellent from the estimate to the
-                            installation.
-                            We're very pleased with our new HVAC system and it has made a significant difference. The
-                            team was polite,
-                            professional, and expert at their jobs.</p>
+                        <p class="light text-center ">Very nice technician. Knew what he was doing, did a thorough check
+                            of our systems, and suggested things that could help our furnace's efficiency. </p>
 
-                        <h3 class="text-center">C.T</h3>
+                        <h3 class="text-center">Donald B.</h3>
 
                     </div>
 
                     <div class="col-sm-12 item  owl-item">
 
                         <p class="light text-center ">
-                        <p class="light text-center ">Honest company, responsive, we have now used them for new HVAC on
-                            2 different
-                            homes and will continue to use them. They do not work off commission, so what you want is
-                            what you get at
-                            a market value price. Recommend to anyone.</p>
+                        <p class="light text-center ">Paitson Bros. was extremely professional at all times and I was
+                            pleased with their services. I would recommend them to others and will call them in the
+                            future. Thanks! </p>
 
-                        <h3 class="text-center">S.C</h3>
+                        <h3 class="text-center">Becky D.</h3>
 
                     </div>
 
