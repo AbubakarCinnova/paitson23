@@ -5,7 +5,7 @@
             <div class="col-md-5 col-sm-12 col-xs-12 footer-item">
 
                 <h3>About Us</h3>
-                <p><img src="<?php echo $base_url ?>/img/footer-logo.png" style="width:70%"></p>
+                <p><img src="<?php echo $base_url ?>/img/footer-logo.png" width="180"></p>
                 <p class="light">"When brothers Bob and Stanley Paitson started their heating and hardware business in
                     1922, they had no idea the impact their small business would have on generations of Wabash Valley
                     homes and businesses... "</p>
@@ -15,7 +15,6 @@
                 <h3>Service Areas</h3>
                 <ul class="footer-list" style="display: flex; flex-wrap: wrap;">
                     <div class="item-list-inner">
-                        <li>Service Areas Indiana:</li>
                         <li><a href="/service-area/terre-haute-Indiana.php">- Terre Haute</a>
                         </li>
                         <li><a href="/service-area/clinton-indiana.php">- Clinton</a></li>
@@ -36,10 +35,8 @@
 
                         <li><a href="/service-area/greencastle-indiana.php">- Greencastle</a>
                         </li>
-                        <li style="font-size:16px;">- West Terre Haute</li>
                     </div>
                     <div>
-                        <li>Service Areas Illinois:</li>
 
                         <li><a href="/service-area/robinson-illinois.php">- Robinson</a></li>
 
