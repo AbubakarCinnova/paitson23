@@ -5,50 +5,62 @@
             <div class="col-md-5 col-sm-12 col-xs-12 footer-item">
 
                 <h3>About Us</h3>
-                <!-- <p><img src="<?php echo $base_url ?>/img/premier dealer.jpg" style="width:70%"></p> -->
-                <p class="light">At Jack's Heating and Cooling, we aim to exceed client expectations by employing the
-                    best customer service people and holding ourselves to only the highest level of customer care. Our
-                    friendly customer service people will answer all your questions, scheduling service, financing and
-                    guide you through the install and rebate process.</p>
+                <p><img src="<?php echo $base_url ?>/img/footer-logo.png" style="width:70%"></p>
+                <p class="light">"When brothers Bob and Stanley Paitson started their heating and hardware business in
+                    1922, they had no idea the impact their small business would have on generations of Wabash Valley
+                    homes and businesses... "</p>
 
             </div>
             <div class="col-md-3 col-sm-12 col-xs-12 footer-item">
                 <h3>Service Areas</h3>
                 <ul class="footer-list" style="display: flex; flex-wrap: wrap;">
                     <div class="item-list-inner">
-                        <li><a href="/service-area/davison.php">Davison</a></li>
-                        <li><a href="/service-area/goodrich.php">Goodrich</a></li>
-                        <li><a href="/service-area/imlay-city.php">Imlay City</a></li>
-                        <li><a href="/service-area/almont.php">Almont</a></li>
-                        <li><a href="/service-area/north-branch.php">North Branch</a></li>
-                        <li><a href="/service-area/metamora.php">Metamora</a></li>
-                        <li><a href="/service-area/cass-city.php">Cass City</a></li>
-                        <li><a href="/service-area/sandusky.php">Sandusky</a></li>
-                        <li><a href="/service-area/ortonville.php">Ortonville</a></li>
-                        <li><a href="/service-area/marlette.php">Marlette</a></li>
+                        <li>Service Areas Indiana:</li>
+                        <li><a href="/service-area/terre-haute-Indiana.php">- Terre Haute</a>
+                        </li>
+                        <li><a href="/service-area/clinton-indiana.php">- Clinton</a></li>
+
+                        <li><a href="/service-area/dana-indiana.php">- Dana</a></li>
+
+                        <li><a href="/service-area/rockville-indiana.php">- Rockville</a></li>
+
+                        <li><a href="/service-area/brazil-indiana.php">- Brazil</a></li>
+
+                        <li><a href="/service-area/clay-city.php">- Clay City</a></li>
+
+                        <li><a href="/service-area/linton-indiana.php">- Linton</a></li>
+
+                        <li><a href="/service-area/jasonville-indiana.php">- Jasonville</a></li>
+
+                        <li><a href="/service-area/sullivan-indiana.php">- Sullivan</a></li>
+
+                        <li><a href="/service-area/greencastle-indiana.php">- Greencastle</a>
+                        </li>
+                        <li style="font-size:16px;">- West Terre Haute</li>
                     </div>
                     <div>
-                        <li><a href="/service-area/lake-orion.php">Lake Orion</a></li>
-                        <li><a href="/service-area/vassar.php">Vassar</a></li>
-                        <li><a href="/service-area/oxford.php">Oxford</a></li>
-                        <li><a href="/service-area/grand-blanc.php">Grand Blanc</a></li>
-                        <li><a href="/service-area/lapeer.php">Lapeer</a></li>
-                        <li><a href="/service-area/caro.php">Caro</a></li>
-                        <li><a href="/service-area/oakland-township.php">Oakland Township</a></li>
-                        <li><a href="/service-area/brandon-township.php">Brandon Township</a></li>
+                        <li>Service Areas Illinois:</li>
+
+                        <li><a href="/service-area/robinson-illinois.php">- Robinson</a></li>
+
+                        <li><a href="/service-area/casey-illinois.php">- Casey</a></li>
+
+                        <li><a href="/service-area/marshall-illinois.php">- Marshall</a></li>
+
+                        <li><a href="/service-area/paris-illinois.php">- Paris</a></li>
+
+                        <li><a href="/service-area/chrisman-illinois.php">- Chrisman</a></li>
+
                     </div>
                 </ul>
             </div>
             <div class="col-md-4 col-sm-12 col-xs-12 footer-item">
                 <h3 class="contact-footer">Contact Us</h3>
-                <p><strong>LAPEER OFFICE</strong> <br>
-                    Address: 1567 Imlay City Rd Suite B - Lapeer, MI 48446 <br>
-                    (810) 664-8451</p>
-                <p><strong>CARO OFFICE</strong> <br>
-                    Address: 1820 W. Caro Rd - Caro, MI 48723 <br>
-                    (989) 672-8451</p>
+                <p><strong>Address:</strong> <br>
+                    Lorem ipsum dolor, sit amet <br>
+                    (812) 232-2347</p>
                 <p><a href="<?php echo $base_url ?>/privacy.php">Terms of Service and Privacy Policy</a></p>
-                <p><a href="https://www.facebook.com/888797jack/" class="facebook-icon current">facebook </a></p>
+                <!--  <p><a href="https://www.facebook.com/888797jack/" class="facebook-icon current">facebook </a></p> -->
 
             </div>
 

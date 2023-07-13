@@ -10,8 +10,8 @@
 
             <div class="col-md-4 ">
                 <h3>Call for appointment</h3>
-                <a href="tel:18887975225">
-                    <h2>1-888-797-JACK</h2>
+                <a href="tel:18122322347">
+                    <h2>(812) 232-2347</h2>
                 </a>
             </div>
 
