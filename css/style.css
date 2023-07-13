@@ -3144,3 +3144,10 @@ strong {
   height: 24px !important;
   width: 24px !important;
 }
+
+@media (min-width: 992px) {
+  .header-align-desktop {
+    display: flex;
+    align-items: center;
+  }
+}

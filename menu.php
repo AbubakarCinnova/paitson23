@@ -3,7 +3,7 @@
     <div class="clearfix"></div>
 
     <div class="container mid_header">
-        <div class="row">
+        <div class="row header-align-desktop">
 
             <div class="col-md-4 text-center site-logo-wrap-mobile"> <a href="<?php echo $base_url ?>"><img
                         src="<?php echo $base_url ?>/img/logo.png" width="150" /></a> </div>
