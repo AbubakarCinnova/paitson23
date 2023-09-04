@@ -6,7 +6,7 @@
         <div class="row header-align-desktop">
 
             <div class="col-md-4 text-center site-logo-wrap-mobile"> <a href="<?php echo $base_url ?>"><img
-                        src="<?php echo $base_url ?>/img/Paitson-logo.png" width="150" /></a> </div>
+                        src="<?php echo $base_url ?>/img/Paitson-logo.png" width="220" /></a> </div>
 
             <div class="col-md-4 ">
                 <h3>Call for appointment</h3>
@@ -16,7 +16,7 @@
             </div>
 
             <div class="col-md-4 text-center site-logo-wrap-desktop"> <a href="<?php echo $base_url ?>"><img
-                        src="<?php echo $base_url ?>/img/Paitson-logo.png" width="150" /></a> </div>
+                        src="<?php echo $base_url ?>/img/Paitson-logo.png" width="280" /></a> </div>
 
             <div class="col-md-4  header-btn-wrap">
                 <a href="<?php echo $base_url ?>/contact-us.php" class="btn btn-warning">Request Service</a>
