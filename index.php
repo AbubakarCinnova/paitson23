@@ -8,7 +8,14 @@
 <body>
 
     <main>
-        <div id="carousel-example-generic" class="carousel slide" data-ride="carousel" data-interval="7500">
+        <div class="video-banner">
+            <div style="padding:42.19% 0 0 0;position:relative;"><iframe
+                    src="https://player.vimeo.com/video/861833688?h=cb0f8ccbf6&autoplay=1&loop=1&title=0&byline=0&portrait=0"
+                    style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"
+                    allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div>
+            <script src="https://player.vimeo.com/api/player.js"></script>
+        </div>
+        <!--  <div id="carousel-example-generic" class="carousel slide" data-ride="carousel" data-interval="7500">
 
             <div class="carousel-inner" role="listbox">
 
@@ -25,10 +32,7 @@
                     </a>
                 </div>
 
-                <!--   <div class="item">
-          <a href="<?php echo $base_url ?>/contact-us.php"> <img src="<?php echo $base_url; ?>/img/b2.png" alt="second slide" width="100%">
-          </a>
-        </div> -->
+            
 
 
 
@@ -44,15 +48,10 @@
             </a>
 
         </div>
-        <!-- Controls -->
+
 
         </div>
 
-        <script>
-
-
-
-        </script>
 
         <script>
         $(document).ready(function() {
@@ -81,7 +80,7 @@
             });
 
         });
-        </script>
+        </script> -->
 
 
         <div class="container mb-lg mt-lg">
