@@ -3175,7 +3175,7 @@ strong {
   border: 0;
   padding: 8px 22px;
   border-radius: 0 36px;
-  width: 300px;
+  width: 300px !important;
 }
 
 .header-cta p {
