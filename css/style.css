@@ -3169,11 +3169,16 @@ strong {
 }
 
 .header-cta {
+  text-align: center;
   background: #ee001c;
   box-shadow: 3px 3px 4px rgba(0, 0, 0, 0.3);
-  border-radius: 0;
   border: 0;
-  padding: 8px 45px;
+  padding: 8px 22px;
   border-radius: 0 36px;
-  white-space: normal;
+}
+
+.header-cta p {
+  font-size: 24px !important;
+  font-weight: 600 !important;
+  color: white !important;
 }
