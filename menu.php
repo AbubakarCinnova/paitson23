@@ -9,8 +9,8 @@
                         src="<?php echo $base_url ?>/img/Paitson-logo.png" width="220" /></a> </div>
 
             <div class="col-md-4 ">
-                <h3>Call for appointment</h3>
-                <a href="tel:18122322347">
+                <a href="tel:18122322347" class="header-cta">
+                    <h3>Call for appointment</h3>
                     <h2>(812) 232-2347</h2>
                 </a>
             </div>

@@ -3167,3 +3167,13 @@ strong {
     width: 37% !important;
   }
 }
+
+.header-cta {
+  background: #ee001c;
+  box-shadow: 3px 3px 4px rgba(0, 0, 0, 0.3);
+  border-radius: 0;
+  border: 0;
+  padding: 8px 45px;
+  border-radius: 0 36px;
+  white-space: normal;
+}
