@@ -2937,7 +2937,11 @@ textarea {
 }
 
 .header-btn-wrap {
-  text-align: right;
+  text-align: center;
+}
+.header-text {
+  text-align: center;
+  font-weight: 600;
 }
 
 @media (max-width: 998px) {
