@@ -21,8 +21,12 @@
             <div class="col-md-4 text-center site-logo-wrap-desktop"> <a href="<?php echo $base_url ?>"><img
                         src="<?php echo $base_url ?>/img/Paitson-logo.png" width="280" /></a> </div>
 
-            <div class="col-md-4  header-btn-wrap">
-                <a href="<?php echo $base_url ?>/contact-us.php" class="btn btn-warning">Request Service</a>
+            <div class="col-md-4 ">
+                <div class="header-btn-wrap">
+                    <a href="<?php echo $base_url ?>/contact-us.php" class="btn btn-warning">Request Service</a>
+                </div>
+                <h3>Wabash Valley's oldest and most experienced comfort provider</h3>
+
             </div>
         </div>
     </div>
