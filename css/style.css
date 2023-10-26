@@ -2949,6 +2949,10 @@ textarea {
   .header-btn-wrap {
     text-align: center;
   }
+  .call-cta-wrap {
+    display: flex;
+    justify-content: center;
+  }
 }
 
 .inner-page-banner img {

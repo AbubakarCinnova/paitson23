@@ -8,7 +8,7 @@
             <div class="col-md-4 text-center site-logo-wrap-mobile"> <a href="<?php echo $base_url ?>"><img
                         src="<?php echo $base_url ?>/img/Paitson-logo.png" width="220" /></a> </div>
 
-            <div class="col-md-4 ">
+            <div class="col-md-4 call-cta-wrap">
                 <a href="tel:18122322347" style="text-decoration:none;">
                     <div class="header-cta">
                         <p>Call for appointment</p>
