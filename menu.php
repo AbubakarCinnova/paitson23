@@ -9,7 +9,7 @@
                         src="<?php echo $base_url ?>/img/Paitson-logo.png" width="220" /></a> </div>
 
             <div class="col-md-4 ">
-                <a href="tel:18122322347">
+                <a href="tel:18122322347" style="text-decoration:none;">
                     <div class="header-cta">
                         <p>Call for appointment</p>
                         <p>(812) 232-2347</p>

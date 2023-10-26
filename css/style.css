@@ -3175,10 +3175,12 @@ strong {
   border: 0;
   padding: 8px 22px;
   border-radius: 0 36px;
+  width: 300px;
 }
 
 .header-cta p {
   font-size: 24px !important;
   font-weight: 600 !important;
   color: white !important;
+  margin-bottom: 5px !important;
 }
