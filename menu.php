@@ -11,7 +11,7 @@
             <div class="col-md-4 call-cta-wrap">
                 <a href="tel:18122322347" style="text-decoration:none;">
                     <div class="header-cta">
-                        <p>Call for appointment</p>
+                        <p>Call for Appointment</p>
                         <p>(812) 232-2347</p>
                     </div>
 
@@ -22,7 +22,7 @@
                         src="<?php echo $base_url ?>/img/Paitson-logo.png" width="280" /></a> </div>
 
             <div class="col-md-4 ">
-                <h3 class="header-text">Wabash Valley's oldest and most experienced comfort provider</h3>
+                <h3 class="header-text">Wabash Valley's Oldest and Most Experienced Comfort Provider</h3>
                 <div class="header-btn-wrap">
                     <a href="<?php echo $base_url ?>/contact-us.php" class="btn btn-warning">Request Service</a>
                 </div>
