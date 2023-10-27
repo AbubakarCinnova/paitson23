@@ -154,7 +154,7 @@
               <script src="//www.toyoursuccess.com/reviews/js:6187:4"></script>
             </div>
             <div class="col-sm-9"> -->
-                        <h2 class="review-heading">Why Wait? Get Total Comfort Today!</h2>
+                        <h1 class="review-heading">Why Wait? Get Total Comfort Today!</h1>
                         <p>Honest Estimates. Affordable Prices. Experienced Technicians.</p> <br />
                         <p style="width:100%"><a class="btn btn-warning"
                                 href="<?php echo $base_url ?>/contact-us.php">Contact Our
@@ -208,7 +208,7 @@
 
                 <div class="col-sm-12 text-center">
 
-                    <h2>What Our Customers Are Saying</h2>
+                    <h1>What Our Customers Are Saying</h1>
 
                 </div>
 
