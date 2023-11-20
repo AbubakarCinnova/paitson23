@@ -74,6 +74,7 @@
 
                     <li><a href="<?php echo $base_url ?>/about.php">About</a>
                         <ul class="dropdown-menu">
+                            <li><a href="<?php echo $base_url ?>/being-green.php">Being Green</a></li>
                             <li><a href="<?php echo $base_url ?>/why-choose-us.php">Why Choose Us</a></li>
                             <li><a href="<?php echo $base_url ?>/testimonials.php">Testimonials</a></li>
 
