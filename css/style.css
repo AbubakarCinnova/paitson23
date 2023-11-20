@@ -3197,5 +3197,6 @@ strong {
 @media (max-width: 768px) {
   .page-images {
     width: 200px !important;
+    float: none !important;
   }
 }
