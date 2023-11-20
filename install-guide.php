@@ -32,10 +32,10 @@
 
 
                                     <div class="row">
-                                        <div class="col-md-3"><img src="<?php echo $base_url ?>/img/Emily-Small.jpg"
+                                        <div class="col-md-4"><img src="<?php echo $base_url ?>/img/Emily-Small.jpg"
                                                 style=" width: 100%; padding-top: 20px;" class="page-images">
                                         </div>
-                                        <div class="col-md-9">
+                                        <div class="col-md-8">
                                             <h2>1. Schedule Appointment</h2>
                                             <p style=""><span>Scheduling is easy. A customer service specialist is
                                                     available to take your call to schedule a free in-home consultation
@@ -51,7 +51,7 @@
                                     <br>
 
                                     <div class="row">
-                                        <div class="col-md-9">
+                                        <div class="col-md-8">
                                             <h2>2. In-Home Consultation</h2>
                                             <p style=""><span>On your scheduled day, your comfort advisor will arrive
                                                     and (no pressure!) begin by asking you a series of simple questions
@@ -65,7 +65,7 @@
                                                     easier. Your comfort advisor is fully equipped to assist in securing
                                                     this financing.</span></p><br>
                                         </div>
-                                        <div class="col-md-3"><img
+                                        <div class="col-md-4"><img
                                                 src="<?php echo $base_url ?>/img/in-home-consult.jpeg"
                                                 style=" width: 100%; padding-top: 20px;" class="page-images">
                                         </div>
@@ -75,12 +75,12 @@
 
 
                                     <div class="row">
-                                        <div class="col-md-3"><img src="<?php echo $base_url ?>/img/install-one.jpeg"
+                                        <div class="col-md-4"><img src="<?php echo $base_url ?>/img/install-one.jpeg"
                                                 style=" width: 100%; padding-top: 20px;" class="page-images">
                                             <img src="<?php echo $base_url ?>/img/install-two.jpeg"
                                                 style=" width: 100%; padding-top: 20px;" class="page-images">
                                         </div>
-                                        <div class="col-md-9">
+                                        <div class="col-md-8">
                                             <h2>3. Installation</h2>
                                             <p style=""><span>Your comfort advisor and our installation manager will
                                                     work with you to schedule a time for your installation. Most
@@ -106,7 +106,7 @@
 
                                     <div class="row">
 
-                                        <div class="col-md-9">
+                                        <div class="col-md-8">
                                             <h2>4. Post-Install Interview</h2>
                                             <p style=""><span>Once your new system has been installed our white-glove
                                                     level service continues. Our dedicated staff of back-office
@@ -122,7 +122,7 @@
                                                     and your family to enjoy the benefits of your new system.</span></p>
                                             <br>
                                         </div>
-                                        <div class="col-md-3"><img src="<?php echo $base_url ?>/img/post-install-1.jpeg"
+                                        <div class="col-md-4"><img src="<?php echo $base_url ?>/img/post-install-1.jpeg"
                                                 style=" width: 100%; padding-top: 20px;" class="page-images">
                                             <img src="<?php echo $base_url ?>/img/post-install-2.jpeg"
                                                 style=" width: 100%; padding-top: 20px;" class="page-images">
