@@ -15,7 +15,7 @@
                         <div class="row">
                             <div class="col-sm-12">
 
-                                <div class="home-left">
+                                <div class="home-left install-page">
 
 
                                     <h1>Install Guide</h1>
