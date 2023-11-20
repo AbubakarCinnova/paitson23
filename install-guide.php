@@ -32,8 +32,7 @@
 
 
                                     <div class="row">
-                                        <div class="col-md-6"><img
-                                                src="<?php echo $base_url ?>/img/lennox energy efficient systems terra haute.jpg"
+                                        <div class="col-md-6"><img src="<?php echo $base_url ?>/img/Emily-Small.jpg"
                                                 style=" width: 100%; padding-top: 20px;" class="page-images">
                                         </div>
                                         <div class="col-md-6">
