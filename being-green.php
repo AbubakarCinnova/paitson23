@@ -1,7 +1,6 @@
 <?php include_once('header.php') ?>
 <title>Paitson Bros Heating and Air Conditioning | Being Green </title>
-<meta name="description"
-    content="You're researching online or have heard talk about variable speed furnaces, single-stage, two-stage, modulating gas furnaces, and AFUE ratings. Let us help you by explaining some of those furnace systems and related terms. " />
+
 <?php include_once('menu.php') ?>
 </head>
 
@@ -18,8 +17,8 @@
 
                                 <div class="home-left">
 
-                                    <img src="https://www.paitson.com/img/banner-breing-gree.png" class="page-images"
-                                        style="width: 90%;">
+                                    <img src="<?php echo $base_url ?>/img/banner-breing-gree.png" class="page-images"
+                                        style="width: 100%;">
 
                                     <h2>We Take Pride In Being Responsible For Our Environment.</h2>
 
@@ -31,7 +30,7 @@
 
                                     <div class="row">
                                         <div class="col-md-2"><img
-                                                src="https://www.paitson.com/img/lennox energy efficient systems terra haute.jpg"
+                                                src="<?php echo $base_url ?>/img/lennox energy efficient systems terra haute.jpg"
                                                 style="float:left; width: 100%; padding-top: 20px;" class="page-images">
                                         </div>
                                         <div class="col-md-10">
@@ -48,7 +47,7 @@
 
                                     <div class="row">
                                         <div class="col-md-2"><img
-                                                src="https://www.paitson.com/img/we sell energy star terra haute.png"
+                                                src="<?php echo $base_url ?>/img/we sell energy star terra haute.png"
                                                 style="float:left; width: 100%; padding-bottom:30px; padding-top: 30px;"
                                                 class="page-images"></div>
                                         <div class="col-md-10">
@@ -64,7 +63,7 @@
                                     <br>
                                     <div class="row">
                                         <div class="col-md-2"><img
-                                                src="https://www.paitson.com/img/greenguard terra haute.png"
+                                                src="<?php echo $base_url ?>/img/greenguard terra haute.png"
                                                 style="float:left; width: 100%;" class="page-images"></div>
                                         <div class="col-md-10">
                                             <p style=""><span>All of our insulated duct materials are Greenguard
@@ -83,7 +82,7 @@
 
                                     <div class="row">
                                         <div class="col-md-2"><img
-                                                src="https://www.paitson.com/img/epa 608 recovery.png"
+                                                src="<?php echo $base_url ?>/img/epa 608 recovery.png"
                                                 style="float:left; width: 100%; " class="page-images"></div>
                                         <div class="col-md-10">
                                             <p style="    padding-top: 47px;"><span>We recover all refrigerant per EPA
@@ -95,7 +94,7 @@
                                     <br>
 
                                     <div class="row">
-                                        <div class="col-md-2"><img src="https://www.paitson.com/img/eco pad 2.jpg"
+                                        <div class="col-md-2"><img src="<?php echo $base_url ?>/img/eco pad 2.jpg"
                                                 style="width: 100%;" class="page-images hoverZoomLink"></div>
                                         <div class="col-md-10">
                                             <p style="    padding-top: 103px;"><span>You have the choice of using
@@ -110,7 +109,7 @@
 
                                     <div class="row">
                                         <div class="col-md-2"><img
-                                                src="https://www.paitson.com/img/thermostat recycling.jpg"
+                                                src="<?php echo $base_url ?>/img/thermostat recycling.jpg"
                                                 style="float:left; width: 100%; margin-right:40px;" class="page-images">
                                         </div>
                                         <div class="col-md-10">
@@ -124,7 +123,7 @@
 
 
                                     <div class="row">
-                                        <div class="col-md-2"><img src="https://www.paitson.com/img/recycle.png"
+                                        <div class="col-md-2"><img src="<?php echo $base_url ?>/img/recycle.png"
                                                 style="float:left; width: 100%;" class="page-images"></div>
                                         <div class="col-md-10">
                                             <p style="    padding-top: 60px;"><span>All of the used equipment we remove
