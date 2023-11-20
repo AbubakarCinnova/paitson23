@@ -50,7 +50,58 @@
 
                                     <br>
 
+                                    <div class="row">
+                                        <div class="col-md-9">
+                                            <h2>2. In-Home Consultation</h2>
+                                            <p style=""><span>On your scheduled day, your comfort advisor will arrive
+                                                    and (no pressure!) begin by asking you a series of simple questions
+                                                    to get a feel for your needs, your concerns, your budget, and your
+                                                    timeline. After carefully surveying your home and existing equipment
+                                                    setup, they will usually, in the same visit, be able to present you
+                                                    with a series of options they feel will best fit your needs. The
+                                                    comfort advisor goal is to come along side you to select the system
+                                                    that is a great fit for you and your space. We offer a variety of
+                                                    financing and payment options to help make the purchasing decision
+                                                    easier. Your comfort advisor is fully equipped to assist in securing
+                                                    this financing.</span></p><br>
+                                        </div>
+                                        <div class="col-md-3"><img
+                                                src="<?php echo $base_url ?>/img/in-home-consult.jpeg"
+                                                style=" width: 100%; padding-top: 20px;" class="page-images">
+                                        </div>
+                                    </div>
 
+                                    <br>
+
+
+                                    <div class="row">
+                                        <div class="col-md-3"><img src="<?php echo $base_url ?>/img/install-one.jpeg"
+                                                style=" width: 100%; padding-top: 20px;" class="page-images">
+                                            <img src="<?php echo $base_url ?>/img/install-two.jpeg"
+                                                style=" width: 100%; padding-top: 20px;" class="page-images">
+                                        </div>
+                                        <div class="col-md-9">
+                                            <h2>3. Installation</h2>
+                                            <p style=""><span>Your comfort advisor and our installation manager will
+                                                    work with you to schedule a time for your installation. Most
+                                                    installations take no longer than one day; and you will be fully
+                                                    aware of the required schedule. The installing technicians, led by a
+                                                    team leader, will arrive and begin your installation. They will
+                                                    protect their work area and the route to it through your home. They
+                                                    will work to remove any old equipment, begin placing the new
+                                                    equipment, and, if necessary, take measurements for any sheet metal
+                                                    work. When they have finished their installation, they will work to
+                                                    tidy up their work space -- many customers tell us it's as if no one
+                                                    had been working there at all. The team leader will do a final
+                                                    walk-through with you, demonstrating any important features and
+                                                    controls for you.
+
+                                                    As the installers pull away, you'll realize -- that's it. They're
+                                                    done. How easy was that?</span></p><br>
+                                        </div>
+                                    </div>
+
+                                    <br>
 
 
 
