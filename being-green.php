@@ -15,34 +15,17 @@
                     <div class="  content-area">
                         <div class="row">
                             <div class="col-sm-12">
-                                <h2>We Take Pride In Being Responsible For Our Environment.</h2>
-                                <p>We install energy efficient and environmentally friendly products.</p>
 
                                 <div class="home-left">
 
-
-
-
-
-
-
                                     <img src="https://www.paitson.com/img/banner-breing-gree.png" class="page-images"
                                         style="width: 90%;">
-
-
-
-
-
-
 
                                     <h2>We Take Pride In Being Responsible For Our Environment.</h2>
 
                                     <h3>We install energy efficient and environmentally friendly products.</h3>
 
                                     <br>
-
-
-
 
 
 
@@ -153,18 +136,14 @@
 
 
 
-                                    <h2>You too can take pride in knowing you chose a contractor that cares about your
-                                        environment !</h2>
+                                    <p> <strong>You too can take pride in knowing you chose a contractor that cares
+                                            about your
+                                            environment !</strong></p>
 
 
 
                                 </div>
 
-                                <img src="<?php echo $base_url ?>/img/lennox furnace banner.jpg"
-                                    alt="lennox furnace banner" class="full-width-img">
-
-                                <p><strong>You too can take pride in knowing you chose a contractor that cares about
-                                        your environment !</strong></p>
                             </div>
 
 
