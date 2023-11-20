@@ -32,10 +32,10 @@
 
 
                                     <div class="row">
-                                        <div class="col-md-6"><img src="<?php echo $base_url ?>/img/Emily-Small.jpg"
+                                        <div class="col-md-4"><img src="<?php echo $base_url ?>/img/Emily-Small.jpg"
                                                 style=" width: 100%; padding-top: 20px;" class="page-images">
                                         </div>
-                                        <div class="col-md-6">
+                                        <div class="col-md-8">
                                             <h2>1. Schedule Appointment</h2>
                                             <p style=""><span>Scheduling is easy. A customer service specialist is
                                                     available to take your call to schedule a free in-home consultation
