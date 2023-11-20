@@ -3193,3 +3193,9 @@ strong {
   color: white !important;
   margin-bottom: 5px !important;
 }
+
+@media (max-width: 768px) {
+  .page-images {
+    width: 200px !important;
+  }
+}
