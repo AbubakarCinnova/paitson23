@@ -17,8 +17,7 @@
 
                                 <div class="home-left">
 
-                                    <img src="<?php echo $base_url ?>/img/banner-breing-gree.png" class="page-images"
-                                        style="width: 100%;">
+                                    <img src="<?php echo $base_url ?>/img/banner-breing-gree.png" style="width: 100%;">
 
                                     <h2>We Take Pride In Being Responsible For Our Environment.</h2>
 
