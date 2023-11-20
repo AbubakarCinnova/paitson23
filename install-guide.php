@@ -104,6 +104,34 @@
                                     <br>
 
 
+                                    <div class="row">
+
+                                        <div class="col-md-9">
+                                            <h2>4. Post-Install Interview</h2>
+                                            <p style=""><span>Once your new system has been installed our white-glove
+                                                    level service continues. Our dedicated staff of back-office
+                                                    personnel and your comfort advisor will continue working behind the
+                                                    scenes to ensure that the final pieces of your installation come
+                                                    together: warranty registration, rebate processing, maintenance
+                                                    agreements -- all of these will be taken care of for you! Once all
+                                                    of this is completed, your comfort advisor will schedule a time to
+                                                    visit the installation, giving a careful eye to the details, and
+                                                    make sure you and the comfort advisor are 100% satisfied with every
+                                                    facet of the installation. They will go through each of the
+                                                    documents corresponding to the installation with you and leave you
+                                                    and your family to enjoy the benefits of your new system.</span></p>
+                                            <br>
+                                        </div>
+                                        <div class="col-md-3"><img src="<?php echo $base_url ?>/img/post-install-1.jpeg"
+                                                style=" width: 100%; padding-top: 20px;" class="page-images">
+                                            <img src="<?php echo $base_url ?>/img/post-install-2.jpeg"
+                                                style=" width: 100%; padding-top: 20px;" class="page-images">
+                                        </div>
+                                    </div>
+
+                                    <br>
+
+
 
 
                                 </div>
