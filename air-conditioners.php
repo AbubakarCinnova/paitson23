@@ -175,6 +175,8 @@
                                         available with product registration.</li>
                                 </ul>
 
+                                <br>
+
                                 <p><strong>Contact Us for a Free in-Home Estimate For a New Home Comfort System</strong>
                                 </p>
 
