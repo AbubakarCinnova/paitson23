@@ -39,7 +39,8 @@
                                             <h2>1. Schedule Appointment</h2>
                                             <p style=""><span>Scheduling is easy. A customer service specialist is
                                                     available to take your call to schedule a free in-home consultation
-                                                    any time -- 24 hours a day, 365 days a year. You may also click HERE
+                                                    any time -- 24 hours a day, 365 days a year. You may also <a
+                                                        href="<?php echo $base_url ?>/contact-us.php">click here</a>
                                                     to schedule your appointment online. Appointment times are
                                                     incredibly flexible and include evenings and weekends. We prefer
                                                     that if there is more than one decision maker involved in the
