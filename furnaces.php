@@ -31,9 +31,8 @@
 
                                 <br>
                                 <p>When you own a home, one of the most challenging choices you'll face regarding your
-                                    furnace is determining when it's necessary to replace your heating system.</p>
-
-                                <p>If you're conducting online research or have come across discussions on variable
+                                    furnace is determining when it's necessary to replace your heating system. If you're
+                                    conducting online research or have come across discussions on variable
                                     speed heating, single-stage, two-stage, and modulating gas valves, as well as AFUE
                                     ratings, allow us to assist you by providing explanations for these furnace systems
                                     and relevant terminology.</p>
@@ -156,6 +155,7 @@
                                     </li>
                                     <li>Heat Exchanger Warranty 20-Year Limited Warranty</li>
                                 </ul>
+                                <br>
 
                                 <p>When it comes to getting the best high-efficiency furnace or furnace repair in Terre
                                     Haute, the only name you need to know is Paitson Bros. Heating and Air Conditioning.
