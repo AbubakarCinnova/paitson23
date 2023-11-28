@@ -1,6 +1,6 @@
 <?php include_once('header.php') ?>
 
-<title>Paitson Bros. Heating and Air Conditioning| Furnaces</title>
+<title>Paitson Bros. Heating and Air Conditioning | Furnaces</title>
 <meta name="rating" content="general" />
 
 <meta name="description"
