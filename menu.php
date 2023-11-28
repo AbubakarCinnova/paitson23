@@ -85,7 +85,7 @@
 
                     <ul class="dropdown-menu">
                         <li><a href="<?php echo $base_url ?>/heat-pumps.php">Heat Pumps</a></li>
-                        <li><a href="<?php echo $base_url ?>/furnaces.php">Furnaces</a></li>
+                        <li><a href="<?php echo $base_url ?>/furnaces.php">Gas Furnaces </a></li>
                         <li><a href="<?php echo $base_url ?>/smart-thermostats.php">Smart Thermostats</a></li>
                         <li><a href="<?php echo $base_url ?>/radiant-heating.php"> Radiant Heating </a></li>
                     </ul>
