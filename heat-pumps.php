@@ -111,7 +111,7 @@
                                 <br>
                                 <a href="<?php echo $base_url ?>/contact-us.php" class="btn btn-warning">Request
                                     Quote</a>
-                                <br>
+                                <br><br>
                                 <p>When it comes to getting the best high-efficiency heat pump or heat pump repair in
                                     Terre Haute, the only name you need to know is Paitson Bros. Heating and Air
                                     Conditioning.</p>
