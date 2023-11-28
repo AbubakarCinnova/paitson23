@@ -30,7 +30,6 @@
                                     alt="furnace banner" class="full-width-img"> -->
 
                                 <br>
-                                <br>
                                 <p>When you own a home, one of the most challenging choices you'll face regarding your
                                     furnace is determining when it's necessary to replace your heating system.</p>
 
