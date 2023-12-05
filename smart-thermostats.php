@@ -20,12 +20,14 @@
                                 <img src="<?php echo $base_url ?>/img/smart thermostat Indiana.jpg"
                                     alt="page banner smart thermostats" class="full-width-img">
 
-                                <br>
+                                <br><br>
 
                                 <p><strong>Smart thermostats are designed to provide temperature control for homes and
                                         buildings, but with advanced features that allow for increased efficiency and
                                         convenience.
                                     </strong></p>
+
+
 
                                 <h1>Key Features of Smart Thermostats:</h1>
 
