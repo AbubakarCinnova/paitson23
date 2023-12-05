@@ -115,7 +115,7 @@
                     </ul>
                 </li>
 
-                <li><a href="<?php echo $base_url ?>/service-area.php">Service Area</a></li>
+                <li><a href="<?php echo $base_url ?>/generators.php">Generators</a></li>
 
                 <li><a href="<?php echo $base_url ?>/financing.php" class="dropdown-toggle">Financing</a>
 
