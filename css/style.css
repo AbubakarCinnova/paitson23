@@ -3235,13 +3235,25 @@ strong {
 } */
 
 .gold h2 {
-  color: linear-gradient(135deg, gold, darkgoldenrod) !important;
+  background: linear-gradient(135deg, gold, darkgoldenrod);
+  -webkit-background-clip: text; /* For Safari/Chrome */
+  -webkit-text-fill-color: transparent; /* For Safari/Chrome */
+  background-clip: text; /* For other browsers */
+  color: transparent; /* Fallback for other browsers */
 }
 .silver h2 {
-  color: linear-gradient(135deg, silver, darkgray) !important;
+  background: linear-gradient(135deg, silver, darkgray);
+  -webkit-background-clip: text; /* For Safari/Chrome */
+  -webkit-text-fill-color: transparent; /* For Safari/Chrome */
+  background-clip: text; /* For other browsers */
+  color: transparent; /* Fallback for other browsers */
 }
 .bronze h2 {
-  color: linear-gradient(135deg, #cd7f32, #8b4513) !important;
+  background: linear-gradient(135deg, #cd7f32, #8b4513);
+  -webkit-background-clip: text; /* For Safari/Chrome */
+  -webkit-text-fill-color: transparent; /* For Safari/Chrome */
+  background-clip: text; /* For other browsers */
+  color: transparent; /* Fallback for other browsers */
 }
 
 .gsb div {
