@@ -3235,21 +3235,21 @@ strong {
 } */
 
 .gold h2 {
-  background: linear-gradient(135deg, gold, darkgoldenrod);
+  background: linear-gradient(135deg, gold, rgb(255, 218, 126));
   -webkit-background-clip: text; /* For Safari/Chrome */
   -webkit-text-fill-color: transparent; /* For Safari/Chrome */
   background-clip: text; /* For other browsers */
   color: transparent; /* Fallback for other browsers */
 }
 .silver h2 {
-  background: linear-gradient(135deg, silver, darkgray);
+  background: linear-gradient(135deg, silver, #fff);
   -webkit-background-clip: text; /* For Safari/Chrome */
   -webkit-text-fill-color: transparent; /* For Safari/Chrome */
   background-clip: text; /* For other browsers */
   color: transparent; /* Fallback for other browsers */
 }
 .bronze h2 {
-  background: linear-gradient(135deg, #cd7f32, #8b4513);
+  background: linear-gradient(135deg, #cd7f32, #ffaf76);
   -webkit-background-clip: text; /* For Safari/Chrome */
   -webkit-text-fill-color: transparent; /* For Safari/Chrome */
   background-clip: text; /* For other browsers */
@@ -3263,6 +3263,7 @@ strong {
   margin-bottom: 20px;
   border-radius: 10px;
   margin-right: 10px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 }
 
 @media (min-width: 500pc) {
