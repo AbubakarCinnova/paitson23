@@ -75,7 +75,7 @@
                     <li><a href="<?php echo $base_url ?>/about.php">About</a>
                         <ul class="dropdown-menu">
                             <li><a href="<?php echo $base_url ?>/being-green.php">Being Green</a></li>
-                            <li><a href="<?php echo $base_url ?>/why-choose-us.php">Why Choose Us</a></li>
+                            <!--   <li><a href="<?php echo $base_url ?>/why-choose-us.php">Why Choose Us</a></li> -->
                             <li><a href="<?php echo $base_url ?>/testimonials.php">Testimonials</a></li>
 
                     </li>
@@ -87,7 +87,7 @@
                         <li><a href="<?php echo $base_url ?>/heat-pumps.php">Heat Pumps</a></li>
                         <li><a href="<?php echo $base_url ?>/furnaces.php">Gas Furnaces </a></li>
                         <li><a href="<?php echo $base_url ?>/smart-thermostats.php">Smart Thermostats</a></li>
-                        <li><a href="<?php echo $base_url ?>/radiant-heating.php"> Radiant Heating </a></li>
+                        <!--  <li><a href="<?php echo $base_url ?>/radiant-heating.php"> Radiant Heating </a></li> -->
                     </ul>
                 </li>
 
@@ -102,7 +102,7 @@
                     <ul class="dropdown-menu">
                         <li><a href="<?php echo $base_url ?>/install-guide.php">Install Guide</a></li>
                         <li><a href="<?php echo $base_url ?>/maintenance-plan.php">Maintenance Plan</a></li>
-                        <li><a href="<?php echo $base_url ?>/water-heater.php">Water Heaters</a></li>
+                        <!-- <li><a href="<?php echo $base_url ?>/water-heater.php">Water Heaters</a></li> -->
                         <li><a href="<?php echo $base_url ?>/repair-services.php">Repair Services</a></li>
                     </ul>
                 </li>
