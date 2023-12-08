@@ -67,46 +67,69 @@
 
                                 <br>
 
+                                <div class="gsb">
+                                    <div class="gold">
+                                        <h2>Gold Level Residential Planned Service Club Benefits</h2>
+                                        <ul>
+                                            <li>Free Guaranteed Parts*</li>
+                                            <li>Free labor** On All Repairs</li>
+                                            <li>Multiple System Discounts</li>
+                                            <li>Receive a 5% discount on installed equipment during the contract.</li>
+                                            <li> No Overtime Charges</li>
+                                            <li> Agreement is Transferrable</li>
+                                            <li> Priority Service Scheduling</li>
+                                            <li> Two Comprehensive Seasonal Inspections Per Year</li>
+                                        </ul>
+                                        <br>
+                                        <p>This all-inclusive package ensures you peace of mind and maximum protection
+                                            for
+                                            your HVAC system to keep it running smoothly and efficiently all year with
+                                            the
+                                            premier service you’ve come to expect from Paitson Brothers Heating and Air
+                                            Conditioning.</p>
+                                    </div>
 
-                                <div class="gold">
-                                    <h2>Gold Level Residential Planned Service Club Benefits</h2>
-                                    <ul>
-                                        <li>Free Guaranteed Parts*</li>
-                                        <li>Free labor** On All Repairs</li>
-                                        <li>Multiple System Discounts</li>
-                                        <li>Receive a 5% discount on installed equipment during the contract.</li>
-                                    </ul>
-                                    <p>This all-inclusive package ensures you peace of mind and maximum protection for
-                                        your HVAC system to keep it running smoothly and efficiently all year with the
-                                        premier service you’ve come to expect from Paitson Brothers Heating and Air
-                                        Conditioning.</p>
+                                    <div class="silver">
+                                        <h2>Silver Level Residential Planned Service Club Benefits</h2>
+                                        <ul>
+                                            <li>15% Discount On Parts</li>
+                                            <li>Free labor** On All Repairs</li>
+                                            <li>Multiple System Discounts</li>
+                                            <li>Receive a 5% discount on installed equipment during the contract.</li>
+                                            <li>No Overtime Charges</li>
+                                            <li> Agreement is Transferrable</li>
+                                            <li> Priority Service Scheduling</li>
+                                            <li> Two Comprehensive Seasonal Inspections Per Year</li>
+                                        </ul>
+                                        <br>
+                                        <p>For those residential customers looking for seasonal benefits with additional
+                                            perks, the Silver Plan is the perfect option for you.</p>
+                                    </div>
+
+                                    <div class="bronze">
+                                        <h2>Bronze Level Residential Planned Service Club Benefits</h2>
+                                        <ul>
+                                            <li>15% Discount On Parts</li>
+                                            <li>15% Discount on Labor for any Necessary Repairs</li>
+                                            <li>Multiple System Discounts</li>
+                                            <li>Receive a 5% discount on installed equipment during the contract.</li>
+                                            <li>No Overtime Charges</li>
+                                            <li> Agreement is Transferrable</li>
+                                            <li> Priority Service Scheduling</li>
+                                            <li> Two Comprehensive Seasonal Inspections Per Year</li>
+
+                                        </ul>
+                                        <br>
+                                        <p>Investing in one of our Planned Service Clubs will not only prolong the
+                                            lifespan
+                                            of your system but also save you money on potential repairs. Join the
+                                            Paitson
+                                            Bros. family today and ensure your comfort year-round. Contact us to get
+                                            started
+                                            with the perfect plan for your needs!</p>
+                                    </div>
                                 </div>
 
-                                <div class="silver">
-                                    <h2>Silver Level Residential Planned Service Club Benefits</h2>
-                                    <ul>
-                                        <li>15% Discount On Parts</li>
-                                        <li>Free labor** On All Repairs</li>
-                                        <li>Multiple System Discounts</li>
-                                        <li>Receive a 5% discount on installed equipment during the contract.</li>
-                                    </ul>
-                                    <p>For those residential customers looking for seasonal benefits with additional
-                                        perks, the Silver Plan is the perfect option for you.</p>
-                                </div>
-
-                                <div class="bronze">
-                                    <h2>Bronze Level Residential Planned Service Club Benefits</h2>
-                                    <ul>
-                                        <li>15% Discount On Parts</li>
-                                        <li>15% Discount on Labor for any Necessary Repairs</li>
-                                        <li>Multiple System Discounts</li>
-                                        <li>Receive a 5% discount on installed equipment during the contract.</li>
-                                    </ul>
-                                    <p>Investing in one of our Planned Service Clubs will not only prolong the lifespan
-                                        of your system but also save you money on potential repairs. Join the Paitson
-                                        Bros. family today and ensure your comfort year-round. Contact us to get started
-                                        with the perfect plan for your needs!</p>
-                                </div>
 
 
                                 <br>

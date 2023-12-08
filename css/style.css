@@ -3214,17 +3214,35 @@ strong {
 }
 
 .gold {
-  background-color: gold;
+  width: 280px;
+  background-color: #1c1c1c;
   padding: 20px;
   margin-bottom: 20px;
+}
+.gold h2 {
+  color: gold !important;
 }
 .silver {
-  background-color: silver;
+  width: 280px;
+  background-color: #1c1c1c;
   padding: 20px;
   margin-bottom: 20px;
 }
+.silver h2 {
+  color: silver !important;
+}
 .bronze {
-  background-color: #cd7f32;
+  width: 280px;
+  background-color: #1c1c1c;
   padding: 20px;
   margin-bottom: 20px;
+}
+.bronze h2 {
+  color: #cd7f32 !important;
+}
+
+.gsb {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
 }
