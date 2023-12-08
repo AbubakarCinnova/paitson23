@@ -3126,6 +3126,10 @@ strong {
   .air-duct-img {
     width: 50% !important;
   }
+  .duct-clean-img {
+    width: 50% !important;
+    float:right;
+  }
 }
 
 .specials-page img {
