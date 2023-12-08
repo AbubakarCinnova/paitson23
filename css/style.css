@@ -3234,12 +3234,23 @@ strong {
   margin-bottom: 20px;
 } */
 
+.gold h2 {
+  color: gold !important;
+}
+.silver h2 {
+  color: silver !important;
+}
+.bronze h2 {
+  color: #cd7f32 !important;
+}
+
 .gsb div {
-  width: 35rem;
+  width: 37rem;
   background-color: #1c1c1c;
   padding: 20px;
   margin-bottom: 20px;
-  border-radius:10px;
+  border-radius: 10px;
+  margin-right: 10px;
 }
 
 .gsb {
@@ -3248,9 +3259,6 @@ strong {
   justify-content: space-between;
 }
 
-.gsb h2 {
-  color: gold !important;
-}
 .gsb p,
 .gsb li {
   color: white !important;
