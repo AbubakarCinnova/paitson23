@@ -3253,6 +3253,13 @@ strong {
   margin-right: 10px;
 }
 
+@media (min-width: 500pc) {
+  .gsb div {
+    width: 100%;
+    margin-right: 0px;
+  }
+}
+
 .gsb {
   display: flex;
   flex-wrap: wrap;
