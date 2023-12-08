@@ -186,6 +186,8 @@
                                     <li>Check supply and return static pressure</li>
                                 </ul>
 
+                                <br>
+
                                 <p>The per-year price is for a standard single-family home</p>
 
                                 <p>* Compressor or heat exchanger repairs are covered only if the compressor or heat
