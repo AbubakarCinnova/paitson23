@@ -3235,13 +3235,13 @@ strong {
 } */
 
 .gold h2 {
-  color: gold !important;
+  color: linear-gradient(135deg, gold, darkgoldenrod) !important;
 }
 .silver h2 {
-  color: silver !important;
+  color: linear-gradient(135deg, silver, darkgray) !important;
 }
 .bronze h2 {
-  color: #cd7f32 !important;
+  color: linear-gradient(135deg, #cd7f32, #8b4513) !important;
 }
 
 .gsb div {
