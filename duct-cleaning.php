@@ -24,7 +24,7 @@
                                         to ensure you are getting the cleanest air possible into your home.</strong></p>
 
                                 <img src="<?php echo $base_url ?>/img/stanley_steamer.png" alt="pic Stanley Steemer"
-                                    style=" width: 100%; padding-top: 20px;" class="page-images">
+                                    class="install-pg-img">
                                 <br>
 
                                 <h2>Benefits Of Clean Ducts</h2>
