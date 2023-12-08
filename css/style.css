@@ -3213,45 +3213,44 @@ strong {
   }
 }
 
-.gold {
+/* .gold {
   width: 45rem;
   background-color: #1c1c1c;
   padding: 20px;
   margin-bottom: 20px;
 }
-.gold h2 {
-  color: gold !important;
-}
-.gold p {
-  color: white;
-}
+
 .silver {
   width: 45rem;
   background-color: #1c1c1c;
   padding: 20px;
   margin-bottom: 20px;
 }
-.silver h2 {
-  color: silver !important;
-}
-.silver p {
-  color: white;
-}
+
 .bronze {
   width: 45rem;
   background-color: #1c1c1c;
   padding: 20px;
   margin-bottom: 20px;
-}
-.bronze h2 {
-  color: #cd7f32 !important;
-}
-.bronze p {
-  color: white;
+} */
+
+.gsb div {
+  width: 35rem;
+  background-color: #1c1c1c;
+  padding: 20px;
+  margin-bottom: 20px;
 }
 
 .gsb {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
+}
+
+.gsb h2 {
+  color: gold !important;
+}
+.gsb p,
+.gsb li {
+  color: white !important;
 }
