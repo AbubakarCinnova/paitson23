@@ -127,8 +127,8 @@
 
 
                                 <br>
-                                <a href="http://www.generac.com/all-products/generators/home-backup-generators/guardian-series#?cat=-279&cat=145"
-                                    class="btn btn-warning" target="_blank"> Explore our
+                                <a href="https://generac.paitson.com/" class="btn btn-warning" target="_blank"> Explore
+                                    our
                                     Generator models</a>
                                 <br>
 
