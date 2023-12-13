@@ -127,7 +127,8 @@
 
 
                                 <br>
-                                <a href="<?php echo $base_url ?>/" class="btn btn-warning"> Explore our
+                                <a href="http://www.generac.com/all-products/generators/home-backup-generators/guardian-series#?cat=-279&cat=145"
+                                    class="btn btn-warning"> Explore our
                                     Generator models</a>
                                 <br>
 
