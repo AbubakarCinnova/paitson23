@@ -142,10 +142,6 @@
 
 
 
-                                <br>
-
-                                <a href="<?php echo $base_url ?>/contact-us.php" class="btn btn-warning">Request
-                                    Quote</a>
                             </div>
 
 
