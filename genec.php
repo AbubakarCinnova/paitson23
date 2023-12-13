@@ -15,8 +15,9 @@
                     <div class="  content-area">
                         <div class="row">
                             <div class="col-sm-12">
-                                <iframe src="https://generac.paitson.com/" frameborder="0"></iframe>
-
+                                <iframe src="https://generac.paitson.com/" id="noconflict" width="100%" height="3940"
+                                    style="border:0;overflow:hidden;" seamless="seamless" scrolling="no"
+                                    frameborder="0"></iframe>
                             </div>
 
 
