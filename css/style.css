@@ -3285,3 +3285,8 @@ strong {
   font-size: 15px;
   line-height: 22px;
 }
+
+#noconflict header,
+#noconflict footer {
+  display: none !important;
+}
