@@ -117,8 +117,7 @@
 
 
                                 <br>
-                                <a href="<?php echo $base_url ?>/contact-us.php" class="btn btn-warning">Request
-                                    Service</a>
+                                <a href="<?php echo $base_url ?>/contact-us.php" class="btn btn-warning">Contact Us </a>
                                 <br>
 
 
