@@ -104,7 +104,6 @@
                                     <li>WiFi Thermostats</li>
                                     <li>Affordable Pricing</li>
                                     <li>Lennox Dealer</li>
-                                    <li>RUUD Dealer</li>
                                     <li>Indoor Air Quality Installation</li>
                                     <li>Emergency Service</li>
                                     <li>Whole House Humidifiers</li>
