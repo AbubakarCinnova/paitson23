@@ -44,6 +44,8 @@
                                         compliance with current safety standards.</li>
                                 </ul>
 
+                                <br>
+
                                 <p>When it comes to furnace replacement and installation, Paitson Bros. offers a
                                     cost-effective solution. We specialize in installing high-efficiency Lennox furnaces
                                     and customizing systems to fit your family's comfort needs and budget. Our
@@ -117,6 +119,7 @@
                                     <li><strong>Consistent 5-Star Reviews:</strong> Read what our satisfied customers
                                         say about us.</li>
                                 </ul>
+                                <br>
 
                                 <p><strong>Paitson Bros. Heating and Air Conditioning:</strong> A Century of Comfort, A
                                     Legacy of Excellence!</p>

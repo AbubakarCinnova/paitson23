@@ -1494,9 +1494,10 @@ h1 {
 }
 
 h3 {
-  margin: 10px 0;
+  margin-top: 15px;
+  margin-bottom: 10px;
   font-size: 22px;
-  font-weight: 500;
+  font-weight: 600;
   font-family: "Open Sans", sans-serif;
 }
 
