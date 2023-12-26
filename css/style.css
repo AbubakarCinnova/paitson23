@@ -3293,7 +3293,7 @@ strong {
 }
 
 @media (min-width: 768px) {
-  .owl-carousel .owl-wrapper-outer {
+  #testmonial .owl-carousel .owl-wrapper-outer {
     height: 160px;
   }
 }
