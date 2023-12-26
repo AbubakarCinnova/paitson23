@@ -220,7 +220,7 @@
 
                     <div class="col-sm-12 item  owl-item">
 
-                        <p class="light text-center ">
+
                         <p class="light text-center ">They were very helpful, fast and friendly. Great service! </p>
 
                         <h3 class="text-center">Cindy P. </h3>
@@ -232,7 +232,7 @@
 
                     <div class="col-sm-12 item  owl-item">
 
-                        <p class="light text-center ">
+
                         <p class="light text-center ">Very prompt and explained all services well. I'd recommend to
                             anyone needing services. Very impressed.</p>
 
@@ -245,7 +245,7 @@
 
                     <div class="col-sm-12 item  owl-item">
 
-                        <p class="light text-center ">
+
                         <p class="light text-center ">Spring checkup, very professional and friendly. Always good
                             experiences with Paitson.</p>
 
@@ -258,7 +258,7 @@
 
                     <div class="col-sm-12 item  owl-item">
 
-                        <p class="light text-center ">
+
                         <p class="light text-center ">Very nice technician. Knew what he was doing, did a thorough check
                             of our systems, and suggested things that could help our furnace's efficiency. </p>
 
@@ -268,7 +268,7 @@
 
                     <div class="col-sm-12 item  owl-item">
 
-                        <p class="light text-center ">
+
                         <p class="light text-center ">Paitson Bros. was extremely professional at all times and I was
                             pleased with their services. I would recommend them to others and will call them in the
                             future. Thanks! </p>

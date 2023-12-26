@@ -3291,3 +3291,9 @@ strong {
 #noconflict footer {
   display: none !important;
 }
+
+@media (min-width: 768px) {
+  .owl-carousel .owl-wrapper-outer {
+    height: 160px;
+  }
+}
