@@ -43,8 +43,8 @@
                                     peaceful ambiance, this Midwest gem invites visitors to experience the warmth of its
                                     hospitality and the simplicity of life in a true community-minded town.</p>
 
-                                <h1>Clay City Indiana's Premier HVAC and Furnace Repair Experts: Paitson Bros. Heating
-                                    and Air Conditioning - A Century of Comfort, A Legacy of Excellence</h1>
+                                <h2>Clay City Indiana's Premier HVAC and Furnace Repair Experts: Paitson Bros. Heating
+                                    and Air Conditioning - A Century of Comfort, A Legacy of Excellence</h2>
 
                                 <p>Explore top-notch HVAC services in Clay City, Indiana, with Paitson Bros. Heating and
                                     Air Conditioning. With a legacy spanning over a century, we have earned the trust of
