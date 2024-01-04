@@ -25,7 +25,7 @@
 
 
                                 <img src="<?php echo $base_url ?>/img/clinton.jpg" alt="pic clinton"
-                                    style=" width: 100%; padding-top: 20px;" class="duct-clean-img">
+                                    style=" width: 100%; padding: 20px;" class="duct-clean-img">
                                 <br>
 
                                 <p>Amid the beautiful and fertile farmlands of Western Indiana is the charming city of
