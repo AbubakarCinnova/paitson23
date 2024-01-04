@@ -15,38 +15,38 @@
                 <h3>Service Areas</h3>
                 <ul class="footer-list" style="display: flex; flex-wrap: wrap;">
                     <div class="item-list-inner">
-                        <li><a href="/service-area/terre-haute-Indiana.php">- Terre Haute</a>
+                        <li><a href="<?php echo $base_url ?>/service-area/terre-haute-Indiana.php">- Terre Haute</a>
                         </li>
-                        <li><a href="/service-area/clinton-indiana.php">- Clinton</a></li>
+                        <li><a href="<?php echo $base_url ?>/service-area/clinton-indiana.php">- Clinton</a></li>
 
-                        <li><a href="/service-area/dana-indiana.php">- Dana</a></li>
+                        <li><a href="<?php echo $base_url ?>/service-area/dana-indiana.php">- Dana</a></li>
 
-                        <li><a href="/service-area/rockville-indiana.php">- Rockville</a></li>
+                        <li><a href="<?php echo $base_url ?>/service-area/rockville-indiana.php">- Rockville</a></li>
 
-                        <li><a href="/service-area/brazil-indiana.php">- Brazil</a></li>
+                        <li><a href="<?php echo $base_url ?>/service-area/brazil-indiana.php">- Brazil</a></li>
 
-                        <li><a href="/service-area/clay-city.php">- Clay City</a></li>
+                        <li><a href="<?php echo $base_url ?>/service-area/clay-city.php">- Clay City</a></li>
 
-                        <li><a href="/service-area/linton-indiana.php">- Linton</a></li>
+                        <li><a href="<?php echo $base_url ?>/service-area/linton-indiana.php">- Linton</a></li>
 
-                        <li><a href="/service-area/jasonville-indiana.php">- Jasonville</a></li>
+                        <li><a href="<?php echo $base_url ?>/service-area/jasonville-indiana.php">- Jasonville</a></li>
 
-                        <li><a href="/service-area/sullivan-indiana.php">- Sullivan</a></li>
+                        <li><a href="<?php echo $base_url ?>/service-area/sullivan-indiana.php">- Sullivan</a></li>
 
-                        <li><a href="/service-area/greencastle-indiana.php">- Greencastle</a>
+                        <li><a href="<?php echo $base_url ?>/service-area/greencastle-indiana.php">- Greencastle</a>
                         </li>
                     </div>
                     <div>
 
-                        <li><a href="/service-area/robinson-illinois.php">- Robinson</a></li>
+                        <li><a href="<?php echo $base_url ?>/service-area/robinson-illinois.php">- Robinson</a></li>
 
-                        <li><a href="/service-area/casey-illinois.php">- Casey</a></li>
+                        <li><a href="<?php echo $base_url ?>/service-area/casey-illinois.php">- Casey</a></li>
 
-                        <li><a href="/service-area/marshall-illinois.php">- Marshall</a></li>
+                        <li><a href="<?php echo $base_url ?>/service-area/marshall-illinois.php">- Marshall</a></li>
 
-                        <li><a href="/service-area/paris-illinois.php">- Paris</a></li>
+                        <li><a href="<?php echo $base_url ?>/service-area/paris-illinois.php">- Paris</a></li>
 
-                        <li><a href="/service-area/chrisman-illinois.php">- Chrisman</a></li>
+                        <li><a href="<?php echo $base_url ?>/service-area/chrisman-illinois.php">- Chrisman</a></li>
 
                     </div>
                 </ul>
