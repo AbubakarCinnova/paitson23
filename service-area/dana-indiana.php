@@ -1,12 +1,12 @@
 <?php include_once('../header.php') ?>
 
-<title>Furnace Repair Clay City, IN | AC Repair| HVAC Clay City, IN| Paitson Bros. </title>
+<title>Furnace Repair Dana, IN | AC Repair| HVAC Dana, IN | Paitson Bros. </title>
 
 
 
 
 <meta name="description"
-    content=" Clay City Indiana's Premier HVAC and Furnace Repair Experts: Paitson Bros. Heating and Air Conditioning.  A Century of Comfort, A Legacy of Excellence " />
+    content=" Dana Indiana's Premier HVAC and Furnace Repair Experts: Paitson Bros. Heating and Air Conditioning.  A Century of Comfort, A Legacy of Excellence " />
 
 
 
