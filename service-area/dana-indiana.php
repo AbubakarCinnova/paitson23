@@ -43,8 +43,8 @@
                                     correspondents from World War II.
                                 </p>
 
-                                <h1>Dana, Indiana's Premier HVAC and Furnace Repair Experts: Paitson Bros. Heating and
-                                    Air Conditioning - A Century of Comfort, A Legacy of Excellence</h1>
+                                <h2>Dana, Indiana's Premier HVAC and Furnace Repair Experts: Paitson Bros. Heating and
+                                    Air Conditioning - A Century of Comfort, A Legacy of Excellence</h2>
 
                                 <p>Discover superior HVAC services right here in Dana, Indiana with Paitson Bros.
                                     Heating and Air Conditioning. For over 100 years, we've been the trusted choice for
