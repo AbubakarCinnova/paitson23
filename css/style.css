@@ -3298,11 +3298,12 @@ strong {
   }
 }
 
-.before-footer {
-  background: #ee001c;
-  padding: 30px 0;
+.before-foot {
+  background: #ee001c !important;
+  padding: 30px 0 !important;
 }
 
-.before-footer h2, .before-footer h3{
+.before-foot h2,
+.before-foot h3 {
   color: white !important;
 }

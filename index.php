@@ -295,7 +295,7 @@
         </section>
 
         <div class="clearfix"></div>
-        <section class="full-row before-footer text-center text-white">
+        <section class="full-row before-foot text-center text-white">
             <div class="container">
                 <h2>We proudly serve communities in the following Indiana and Illinois counties:
                 </h2>
