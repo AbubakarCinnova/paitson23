@@ -38,7 +38,7 @@
                                     committed to ensuring your home stays comfortable. Count on us for 24/7 emergency
                                     services and comprehensive HVAC solutions tailored to your needs.</p>
 
-                                <h3>Air Conditioning Services Robinson, IL</h3>
+                                <h2>Air Conditioning Services Robinson, IL</h2>
 
                                 <p>Stay cool in Robinson Illinois' summer heat with Paitson Bros. Heating and Air
                                     Conditioning! Our comprehensive air conditioning services cover everything you need,
