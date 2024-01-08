@@ -295,6 +295,20 @@
         </section>
 
         <div class="clearfix"></div>
+        <section class="full-row before-footer text-center text-white">
+            <div class="container">
+                <h2>We proudly serve communities in the following Indiana and Illinois counties:
+                </h2>
+
+                <h3>(Indiana) Vigo, Clay, Fountain, Greene, Montgomery, Owen, Parke, Putnam, Sullivan, and Vermillion
+                    (Illinois) Clark, Crawford, and Edgar</h3>
+
+            </div>
+
+        </section>
+
+
+        <div class="clearfix"></div>
 
         <section class="full-row call text-center text-white">
 
