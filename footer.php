@@ -71,7 +71,7 @@
         <div class="container">
 
             <div class="text-center col-xs-12 footer-item copyrights text-muted">
-                <p>All Rights Reserved. Copyright Jack's Heating and Cooling</p>
+                <p>Copyright All Rights Reserved.</p>
             </div>
 
         </div>
