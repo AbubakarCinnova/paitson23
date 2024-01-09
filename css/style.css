@@ -3318,12 +3318,14 @@ strong {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
+  padding-top: 30px;
 }
 
 .video-sec-test {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
+  padding: 30px 0px;
 }
 .video-sec-test iframe {
   margin: 10px 20px;

@@ -34,15 +34,15 @@
 
 
                                     <div class="video-sec-test">
-                                        <iframe width="300" height="315"
+                                        <iframe width="380" height="315"
                                             src="https://www.youtube.com/embed/t4-U179rjSI?rel=0" frameborder="0"
-                                            allowfullscreen=""></iframe><iframe width="300" height="315"
+                                            allowfullscreen=""></iframe><iframe width="380" height="315"
                                             src="https://www.youtube.com/embed/U6StL1k3oF8?rel=0" frameborder="0"
-                                            allowfullscreen="" style="margin-left: 10px"></iframe><iframe width="300"
+                                            allowfullscreen="" style="margin-left: 10px"></iframe><iframe width="380"
                                             height="315" src="https://www.youtube.com/embed/n07czlxEeEE?rel=0"
-                                            frameborder="0" allowfullscreen=""></iframe><iframe width="300" height="315"
+                                            frameborder="0" allowfullscreen=""></iframe><iframe width="380" height="315"
                                             src="https://www.youtube.com/embed/EhmQMgMMrIA?rel=0" frameborder="0"
-                                            allowfullscreen="" style="margin-left:10px;"></iframe><iframe width="300"
+                                            allowfullscreen="" style="margin-left:10px;"></iframe><iframe width="380"
                                             height="315" src="https://www.youtube.com/embed/8IK0jliOxTw" frameborder="0"
                                             allowfullscreen=""></iframe>
                                     </div>
