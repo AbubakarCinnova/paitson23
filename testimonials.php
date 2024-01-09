@@ -28,8 +28,7 @@
 
                                         <p> <a href="https://www.google.com/search?q=paitson+bros&amp;oq=paitson+bros&amp;aqs=chrome..69i57j69i60j69i59l2j69i60l2.2671j0j8&amp;sourceid=chrome&amp;ie=UTF-8#lrd=0x886d6548773c0223:0xb63c339551695500,1"
                                                 target="_blank"><img
-                                                    src="<?php echo $base_url ?>/img/reviews-google.png"
-                                                    class="img-responsive" alt=""></a></p>
+                                                    src="<?php echo $base_url ?>/img/reviews-google.png" alt=""></a></p>
 
                                     </div>
 

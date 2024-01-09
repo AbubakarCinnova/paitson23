@@ -3313,3 +3313,24 @@ strong {
   border: 3px solid white;
   box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
 }
+
+.google-sec {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.video-sec-test {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+.video-sec-test iframe {
+  margin: 10px 20px;
+}
+
+@media (max-width: 500px) {
+  .video-sec-test iframe {
+    width: 100% !important;
+  }
+}
