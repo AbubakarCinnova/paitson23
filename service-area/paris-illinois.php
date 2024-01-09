@@ -26,7 +26,7 @@
                                 <h1>Paris, Illinois</h1>
 
 
-                                <img src="<?php echo $base_url ?>/img/paris illinois.jpg" alt="Paris Illinois"
+                                <img src="<?php echo $base_url ?>/img/Paris Indiana.jpeg" alt="Paris Illinois"
                                     style=" width: 100%; padding: 20px;" class="duct-clean-img">
                                 <br>
 

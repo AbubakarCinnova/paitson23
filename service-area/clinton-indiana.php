@@ -24,7 +24,7 @@
                                 <h1>Clinton, Indiana</h1>
 
 
-                                <img src="<?php echo $base_url ?>/img/clinton.jpg" alt="pic clinton"
+                                <img src="<?php echo $base_url ?>/img/Clinton Indiana.jpeg" alt="pic clinton"
                                     style=" width: 100%; padding: 20px;" class="duct-clean-img">
                                 <br>
 

@@ -31,7 +31,7 @@
                                 <h1>Brazil, Indiana</h1>
 
 
-                                <img src="<?php echo $base_url ?>/img/brazil indiana.jpg" alt="Brazil, Indiana"
+                                <img src="<?php echo $base_url ?>/img/Brazil Indiana.jpeg" alt="Brazil, Indiana"
                                     style=" width: 100%; padding: 20px;" class="duct-clean-img">
                                 <br>
 

@@ -31,7 +31,7 @@
                                 <h1>Clay City, Indiana</h1>
 
 
-                                <img src="<?php echo $base_url ?>/img/ClayCity indiana.jpg" alt="pic ClayCity.jpg"
+                                <img src="<?php echo $base_url ?>/img/Clay City Indiana.jpeg" alt="pic ClayCity.jpg"
                                     style=" width: 100%; padding: 20px;" class="duct-clean-img">
                                 <br>
 

@@ -25,8 +25,9 @@
                                 <h1>Rockville, Indiana</h1>
 
 
-                                <img src="<?php echo $base_url ?>/img/Rockville, Indiana.jpeg" alt="Rockville, Indiana"
-                                    style=" width: 100%; padding: 20px;" class="duct-clean-img">
+                                <img src="<?php echo $base_url ?>/img/Rockville Indiana (2).jpeg"
+                                    alt="Rockville, Indiana" style=" width: 100%; padding: 20px;"
+                                    class="duct-clean-img">
                                 <br>
 
                                 <p>Delightful Rockville is located in Parke County of Indiana and is surrounded by
