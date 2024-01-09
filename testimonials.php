@@ -21,35 +21,34 @@
 
                                     <h1>WHAT YOUR NEIGHBORS THINK</h1>
 
+                                    <div class="google-sec">
+                                        <p><img src="<?php echo $base_url ?>/img/google 3 (1).png"
+                                                class="img-responsive" alt="">
+                                        </p>
 
-                                    <p class="nxs-align-left col-md-6">
+                                        <p> <a href="https://www.google.com/search?q=paitson+bros&amp;oq=paitson+bros&amp;aqs=chrome..69i57j69i60j69i59l2j69i60l2.2671j0j8&amp;sourceid=chrome&amp;ie=UTF-8#lrd=0x886d6548773c0223:0xb63c339551695500,1"
+                                                target="_blank"><img
+                                                    src="<?php echo $base_url ?>/img/reviews-google.png"
+                                                    class="img-responsive" alt=""></a></p>
 
-                                        <img src="<?php echo $base_url ?>/img/google 3 (1).png" class="img-responsive"
-                                            style="display: block; margin: 0 auto;" alt="">
-
-                                    </p>
-
-
-
-                                    <a href="https://www.google.com/search?q=paitson+bros&amp;oq=paitson+bros&amp;aqs=chrome..69i57j69i60j69i59l2j69i60l2.2671j0j8&amp;sourceid=chrome&amp;ie=UTF-8#lrd=0x886d6548773c0223:0xb63c339551695500,1"
-                                        target="_blank"><img src="<?php echo $base_url ?>/img/reviews-google.png"
-                                            class="img-responsive" style="display: block; margin: 0 auto;" alt=""></a>
+                                    </div>
 
 
-
-                                    <p style="float:left;padding: 10px;"><iframe width="360" height="315"
+                                    <div class="video-sec-test">
+                                        <iframe width="300" height="315"
                                             src="https://www.youtube.com/embed/t4-U179rjSI?rel=0" frameborder="0"
-                                            allowfullscreen=""></iframe><iframe width="360" height="315"
+                                            allowfullscreen=""></iframe><iframe width="300" height="315"
                                             src="https://www.youtube.com/embed/U6StL1k3oF8?rel=0" frameborder="0"
-                                            allowfullscreen="" style="margin-left: 10px"></iframe><iframe width="360"
+                                            allowfullscreen="" style="margin-left: 10px"></iframe><iframe width="300"
                                             height="315" src="https://www.youtube.com/embed/n07czlxEeEE?rel=0"
-                                            frameborder="0" allowfullscreen=""></iframe></p>
-
-                                    <p style="float:left;padding: 10px;"><iframe width="360" height="315"
+                                            frameborder="0" allowfullscreen=""></iframe><iframe width="300" height="315"
                                             src="https://www.youtube.com/embed/EhmQMgMMrIA?rel=0" frameborder="0"
-                                            allowfullscreen="" style="margin-left:10px;"></iframe><iframe width="360"
+                                            allowfullscreen="" style="margin-left:10px;"></iframe><iframe width="300"
                                             height="315" src="https://www.youtube.com/embed/8IK0jliOxTw" frameborder="0"
-                                            allowfullscreen=""></iframe></p>
+                                            allowfullscreen=""></iframe>
+                                    </div>
+
+
 
 
 
