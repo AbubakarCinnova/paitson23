@@ -53,7 +53,7 @@
 
                                     <p>ALL
                                         ASPECTS OF THE MAINTENANCE, FROM SCHEDULING TO THE PERFORMANCE OF THE TECHNICIAN
-                                        WAS SATISFACTORY. NO COMPLAINTS!</p><br>
+                                        WAS SATISFACTORY. NO COMPLAINTS!</p>
 
 
 
@@ -68,7 +68,7 @@
                                     <br>
                                     <p>GREAT
                                         SERVICE ON A ROUTINE BASIS AS WELL AS THE OCCASIONAL EMERGENCY CALL. VERY
-                                        KNOWLEDGEABLE AND PROFESSIONAL SERVICE TECHNICIAN.</p><br>
+                                        KNOWLEDGEABLE AND PROFESSIONAL SERVICE TECHNICIAN.</p>
 
 
 
@@ -85,7 +85,7 @@
                                         WAS IMPRESSED BY THE TECHNICIAN'S BACKGROUND AND KNOWLEDGE. HE WAS ABLE TO
                                         EXPLAIN PROCEDURES IN SIMPLE, UNDERSTANDABLE LANGUAGE. I HAVE HAD PAITSON'S
                                         EXCELLENT SERVICES (FURNACE, AIR CONDITIONER, AND ROOFING) FOR MANY YEARS AND
-                                        WILL CONTINUE TO DO SO.</p><br>
+                                        WILL CONTINUE TO DO SO.</p>
 
 
 
@@ -100,7 +100,7 @@
                                     <br>
                                     <p>ALWAYS
                                         ABLE TO MAKE APPOINTMENTS CONVENIENT FOR THE CUSTOMER. COURTEOUS. ALWAYS CAN
-                                        TRUST PAITSON TECHNICIANS.</p><br>
+                                        TRUST PAITSON TECHNICIANS.</p>
 
 
 
@@ -128,7 +128,7 @@
                                         IT WAS AMAZING. I FEEL LIKE I HAD A WHOLE TEAM WORKING TO FIGURE OUT THIS SYSTEM
                                         AND THAT THEY GENUINELY CARED THAT IT WAS DONE WELL. AND IT WAS! I HAVE
                                         RECOMMENDED PAITSON'S TO ANYONE WHO WOULD LISTEN. I APPRECIATE THEM VERY
-                                        MUCH.</p><br>
+                                        MUCH.</p>
 
 
 
@@ -140,7 +140,7 @@
 
                                     <br>
                                     <p>I'VE
-                                        ALWAYS TRUSTED THE SERVICE BY WADSWORTH AND NOW PAITSON BROS.</p><br>
+                                        ALWAYS TRUSTED THE SERVICE BY WADSWORTH AND NOW PAITSON BROS.</p>
 
 
 
@@ -157,7 +157,7 @@
                                         ENTIRE STAFF AT PAITSON'S IS SO HELPFUL AND KNOWLEDGEABLE. THE WHOLE EXPERIENCE
                                         OF GETTING A NEW FURNACE, NEW AIR CONDITIONER, NEW HUMIDIFIER SYSTEM, AND
                                         REPAIRING DUCTWORK SHOULD HAVE BEEN A NIGHTMARE. INSTEAD IT WAS COMPLETELY
-                                        PLEASANT AND BARELY EVEN DISRUPTIVE TO OUR HOUSEHOLD. THANK YOU!</p><br>
+                                        PLEASANT AND BARELY EVEN DISRUPTIVE TO OUR HOUSEHOLD. THANK YOU!</p>
 
 
 
@@ -174,7 +174,7 @@
                                         EXCELLENT JOB OF INSTALLATION WAS GREAT. ALSO WE HAD INSTALLED A HIGH EFFICIENCY
                                         LENNOX FURNACE AND AC UNIT FOR OUR NEW HOUSE IN CHAMPAIGN, IL SEVERAL YEARS AGO
                                         AND WE WERE VERY PLEASED WITH THEM. THIS IS WHY WE WENT WITH LENNOX UNITS
-                                        AGAIN.</p><br>
+                                        AGAIN.</p>
 
 
 
@@ -187,7 +187,7 @@
                                     <br>
                                     <p>COULDN'T
                                         BE ANY BETTER SERVICE. PAITSON IS AS PROFESSIONAL AS IT GETS. BEEN DOING
-                                        BUSINESS WITH PAITSON FOR OVER 30 YEARS.</p><br>
+                                        BUSINESS WITH PAITSON FOR OVER 30 YEARS.</p>
 
 
 
@@ -200,7 +200,7 @@
                                     <br>
                                     <p>THE
                                         INSTALLERS WENT OUT OF THEIR WAY TO ENSURE OUR FURNACE WAS TO OUR
-                                        SATISFACTION.</p><br>
+                                        SATISFACTION.</p>
 
 
 
@@ -213,7 +213,7 @@
                                     <br>
                                     <p>FROM
                                         SALES TO INSTALLATION, YOUR FOLKS HAVE BEEN EXTREMELY KNOWLEDGEABLE,
-                                        PROFESSIONAL, AND RESPONSIVE TO OUR SITUATION.</p><br>
+                                        PROFESSIONAL, AND RESPONSIVE TO OUR SITUATION.</p>
 
                                     <em>RON MOORE</em> <br>
 
@@ -223,7 +223,7 @@
 
                                     <br>
                                     <p>PAITSONS
-                                        DID A GREAT JOB FOR US-----EXCELLENT, WELL DONE.</p><br>
+                                        DID A GREAT JOB FOR US-----EXCELLENT, WELL DONE.</p>
 
 
 
@@ -247,7 +247,7 @@
                                         CAME OUT TO MY HOUSE IMMEDIATELY SINCE MY SCHEDULE WAS FILLED LATER IN THE DAY.
                                         WE AGREED ON A NEW UNIT AND IN THE MEANTIME ANOTHER TECH (ERIC) CAME OUT AND GOT
                                         THE SYSTEM TO BLOW SOME COOL AIR UNTIL MY NEW UNIT COULD BE INSTALLED.
-                                    </p><br>
+                                    </p>
 
 
 
@@ -259,7 +259,7 @@
                                         THEM FIRST. WE AGREE THAT WOULD BE FINE SINCE THERE WERE FOLKS WORSE OFF THAN
                                         US. ON SATURDAY NIGHT, JULY 28TH, ED CALLS OUR HOUSE AT 8:50PM AND ASKS IF THEY
                                         CAN INSTALL OUR SYSTEM ON MONDAY MORNING. OBVIOUSLY, WE SAID THAT WOULD BE FINE.
-                                        ASKED WHEN THEY WOULD BE HERE AND HUNG UP THE PHONE. </p><br>
+                                        ASKED WHEN THEY WOULD BE HERE AND HUNG UP THE PHONE. </p>
 
 
 
@@ -272,7 +272,7 @@
                                         DOING IT. ONCE THEY WERE FINISHED FOR THE DAY, THEY TOOK THE TIME TO EXPLAIN
                                         EVERYTHING ABOUT THE SYSTEM TO ME, SHOWED ME WHERE ALL OF THE OPERATING MANUALS
                                         WERE LOCATED, AND ASKED ME AGAIN IF I HAD ANY QUESTIONS. I CANNOT EXPRESS TO YOU
-                                        IN WORDS HOW PROFESSIONAL AND PERSONABLE THESE GUYS WERE! </p><br>
+                                        IN WORDS HOW PROFESSIONAL AND PERSONABLE THESE GUYS WERE! </p>
 
 
 
@@ -284,7 +284,7 @@
                                         MORNING THEY SHOW UP, RIGHT ON TIME AND COMPLETED THE WORK IN ABOUT AN HOUR.
                                         AGAIN, BOTH ED AND DANIEL WERE EXTREMELY PROFESSIONAL AND TOOK GREAT PRIDE IN
                                         THEIR WORK! I WOULD CERTAINLY RECOMMEND PAITSON BROTHERS TO YOU IF YOU ARE
-                                        LOOKING TO HAVE A NEW AC UNIT OR FURNACE INSTALLED!</p><br>
+                                        LOOKING TO HAVE A NEW AC UNIT OR FURNACE INSTALLED!</p>
 
 
 
@@ -304,7 +304,7 @@
                                         COMMUNICATION. I THINK THE MAJORITY OF PEOPLE ARE WILLING TO PAY THAT LITTLE BIT
                                         EXTRA FOR GOOD CUSTOMER SERVICE. WE WERE PLEASED WITH THE WAY WE WERE TREATED,
                                         THE SERVICE WE RECEIVED, AND THE EXCEPTIONAL PRODUCT WE PURCHASED. THANK
-                                        YOU.</p><br>
+                                        YOU.</p>
 
 
 
@@ -317,7 +317,7 @@
                                     <br>
                                     <p>DONE
                                         AN EXCELLENT JOB IN NOT ONLY IN INSTALLATION BUT PROVIDING SERVICE IN A TIMELY
-                                        MANNER.</p><br>
+                                        MANNER.</p>
 
 
 
@@ -329,7 +329,7 @@
 
                                     <br>
                                     <p>KEEP
-                                        DOING EXACTLY WHAT YOU ARE DOING!</p><br>
+                                        DOING EXACTLY WHAT YOU ARE DOING!</p>
 
 
 
@@ -343,7 +343,7 @@
                                     <p>THE
                                         PEOPLE FROM PAITSON BROS WERE VERY PROFESSIONAL AND PERSONAL. WE ARE VERY HAPPY
                                         WITH THE NEW CENTRAL AIR UNIT AND WILL ORDER A FURNACE FROM THEM WHEN IT IS OUT
-                                        OF SERVICE.</p><br>
+                                        OF SERVICE.</p>
 
 
 
@@ -357,7 +357,7 @@
                                     <p>THEY
                                         WERE VERY PROFESSIONAL AND THE INSTALLATION TEAM WAS TOP NOTCH. THEY DID AN
                                         EXCELLENT JOB FIXING MY DUCT ISSUES. I'M VERY HAPPY WITH MY NEW FURNACE AND
-                                        IMPROVED AIR FLOW AND RETURN.</p><br>
+                                        IMPROVED AIR FLOW AND RETURN.</p>
 
 
 
@@ -370,7 +370,7 @@
                                     <br>
                                     <p>I
                                         THINK PAITSON BROS DID A GREAT JOB. WE WILL DEFINITELY USE THEM AGAIN IN THE
-                                        FUTURE FOR OUR HVAC NEEDS.</p><br>
+                                        FUTURE FOR OUR HVAC NEEDS.</p>
 
 
 
@@ -384,7 +384,7 @@
                                     <p>I
                                         WANTED TO LET YOU KNOW THAT YOUR SERVICE MAN ERIC JUST LEFT MY MOTHER'S HOUSE. I
                                         GOT TO TELL YOU HE WAS GREAT. POLITE, PROFESSIONAL, KNOWLEDGABLE. HE DID A
-                                        TREMENDOUS JOB. I'D BE PROUD TO HAVE HIM AS AN EMPLOYEE.</p><br>
+                                        TREMENDOUS JOB. I'D BE PROUD TO HAVE HIM AS AN EMPLOYEE.</p>
 
 
 
@@ -398,7 +398,7 @@
                                     <p>NOTHING
                                         COULD HAVE BEEN DONE ANY BETTER. I CALLED EARLY IN THE MORNING THAT MY AIR
                                         CONDITIONER WAS OUT AND BEFORE NIGHT THEY HAD A NEW ONE INSTALLED. THE WEATHER
-                                        WAS IN THE UPPER 90'S.</p><br>
+                                        WAS IN THE UPPER 90'S.</p>
 
 
 
@@ -411,7 +411,7 @@
                                     <br>
                                     <p>I
                                         WAS VERY HAPPY WITH ED, WHO INSTALLED THE AC AND FURNACE. TIMELY, FRIENDLY,
-                                        COMPETENT. I WAS VERY IMPRESSED!</p><br>
+                                        COMPETENT. I WAS VERY IMPRESSED!</p>
 
 
 
@@ -425,7 +425,7 @@
                                     <p>ED
                                         UTTERBACK, PAITSON'S INSTALLATION PROFESSIONAL, WAS EXTREMELY KNOWLEDGEABLE AND
                                         COURTEOUS WHILE INSTALLING MY SYSTEM. I HAVE ALREADY RECOMMENDED PAITSON BROS
-                                        HTG &amp; A/C TO MY FRIENDS.</p><br>
+                                        HTG &amp; A/C TO MY FRIENDS.</p>
 
 
 
@@ -437,7 +437,7 @@
 
                                     <br>
                                     <p>VERY
-                                        FRIENDLY, WELL ORGANIZED PROFESSIONAL EVERY STEP OF THE WAY!</p><br>
+                                        FRIENDLY, WELL ORGANIZED PROFESSIONAL EVERY STEP OF THE WAY!</p>
 
 
 
@@ -453,7 +453,7 @@
                                         DIFFERENT OPTIONS THAT WERE AVAILABLE. ALWAYS ON TIME AT EVERY POINT O OUR FIRST
                                         MEETING TO THE COMPLETION OF THE INSTALLATION. THEY DID EVERYTHING THAT THEY
                                         ORIGINALLY STATED. ALSO THE MEN WERE ALL NEAT AND CLEAN AND RESPECTFUL AT ALL
-                                        TIMES. OUR EXPERIENCE WITH THEM WAS JUST FANTASTIC. </p><br>
+                                        TIMES. OUR EXPERIENCE WITH THEM WAS JUST FANTASTIC. </p>
 
 
 
@@ -467,7 +467,7 @@
                                     <p>THEY
                                         HONESTLY WERE SO GREAT AND SO COURTEOUS, SO PERSONABLE...THEY JUST MADE SURE
                                         THAT EVERYTHING...THEY TREATED YOU AS THOUGH YOUR WERE ONE OF THEIR OWN, LIKE
-                                        FAMILY. THEY WERE NEAT ,CLEAN AND KNOWLEDGEABLE.</p><br>
+                                        FAMILY. THEY WERE NEAT ,CLEAN AND KNOWLEDGEABLE.</p>
 
 
 
@@ -481,7 +481,7 @@
                                         THE "COMFORT CONSULTANT" WHO CAME TO MY HOME WAS VERY PROFESSIONAL AND HIGHLY
                                         INFORMATIVE. I WAS ALSO IMPRESSED WITH THE PROFESSIONALISM OF THE MEN WHO DID
                                         THE INSTILLATION OF MY A/C. I ENJOYED A COMFORTABLE SUMMER AM AN CURRENTLY
-                                        SAVING UP TO HAVE MY FURNACE REPLACED IN THE NEAR FUTURE.</p><br>
+                                        SAVING UP TO HAVE MY FURNACE REPLACED IN THE NEAR FUTURE.</p>
 
 
 
@@ -495,7 +495,7 @@
                                     <p>OUR
                                         LENNOX FURNACE AND AC UNIT HAS BEEN VERY RELIABLE. THE SERVICE FROM PAITSON
                                         BROS. IS ALWAYS PROFESSIONAL, COURTEOUS AND HIGHLY SKILLED. I RECOMMEND THIS
-                                        DEALER AND THE PRODUCTS THEY SELL TO ALL WHO ASK.</p><br>
+                                        DEALER AND THE PRODUCTS THEY SELL TO ALL WHO ASK.</p>
 
 
 
@@ -512,7 +512,7 @@
                                         APPRECIATED YOU COMING RIGHT OUT ON OUR FURNACE PROBLEM. YOU WERE THE FIRST TO
                                         ACKNOWLEDGE WE HAD A DUST PROBLEM. WE HAVE HAD OUR DUCT CLEANED AND FOR THE
                                         FIRST TIME IN ABOUT FIVE YEARS WE ARE DUST FREE. AGAIN; THANKS A
-                                        MILLION!</p><br>
+                                        MILLION!</p>
 
                                     <em>
 
@@ -526,7 +526,7 @@
                                     <p>THE
                                         SALESMAN (ETHAN) AND THE INSTALLERS WENT ABOVE AND BEYOND A DIFFICULT
                                         INSTALLATION AND MADE SURE THAT I WAS A HAPPY CUSTOMER. THEY WERE
-                                        GREAT!</p><br>
+                                        GREAT!</p>
 
                                     <em>
 
@@ -538,7 +538,7 @@
 
                                     <br>
                                     <p>WE
-                                        HAVE USED PAITSONS PLANNED SERVICE FOR YEARS.</p><br>
+                                        HAVE USED PAITSONS PLANNED SERVICE FOR YEARS.</p>
 
                                     <em>
 
@@ -551,7 +551,7 @@
                                     <br>
                                     <p>I
                                         HAVE NEVER HAD ANY COMPLAINTS SINCE DOING BUSINESS WITH PAITSON BROS. I HAVE
-                                        USED THEM FOR 20 YEARS.</p><br>
+                                        USED THEM FOR 20 YEARS.</p>
 
                                     <em>
 
@@ -563,7 +563,7 @@
 
                                     <br>
                                     <p>COULDN'T
-                                        GET ANY BETTER!</p><br>
+                                        GET ANY BETTER!</p>
 
                                     <em>
 
@@ -577,7 +577,7 @@
                                     <p>I
                                         HAVE LIVED IN TWO HOUSES, AND PAITSON BROS HAVE INSTALLED HEATING AND AIR
                                         CONDITIONING IN BOTH. IF I WOULD NEED ANOTHER UNIT, I WOULD NOT HESITATE TO CALL
-                                        PAITSON'S</p><br>
+                                        PAITSON'S</p>
 
                                     <em>
 
@@ -589,7 +589,7 @@
 
                                     <br>
                                     <p>PAITSON
-                                        BROS.- OUTSTANDING!</p><br>
+                                        BROS.- OUTSTANDING!</p>
 
                                     <em>
 
@@ -605,7 +605,7 @@
                                         CLEANED UP ENTIRE AREA. FRIENDLY - I WAS APPREHENSIVE ABOUT LETTING STRANGERS IN
                                         MY HOME WHILE I WAS AT WORK, SO I TOOK THE DAY OFF. TOTALLY UNNECESSARY -
                                         COMPLETELY PROFESSIONAL AND VERY NICE. IF I NEED ADDITIONAL WORK, I WILL NOT
-                                        HESITATE TO LEAVE A KEY FOR THEM.</p><br>
+                                        HESITATE TO LEAVE A KEY FOR THEM.</p>
 
                                     <em>
 
@@ -619,7 +619,7 @@
                                     <p>THEY
                                         WERE THERE WHEN NEEDED. THE BEST IS JOE. I WON'T LET ANYONE BUT HE SERVICE MY
                                         NEEDS NOR WILL I CALL ANYONE BUT PAITSON BROS. THEY HAVE A FAMILY HISTORY AND
-                                        ARE DEPENDABLE.</p><br>
+                                        ARE DEPENDABLE.</p>
 
                                     <em>
 
@@ -633,7 +633,7 @@
                                     <p>OVER
                                         A PERIOD OF 50 YEARS, PAITSON BROS HEATING AND AC HAVE INSTALLED 3 FURNACES AND
                                         AC UNITS FOR ME AND THEY HAVE DONE A GOOD JOB. INSTALLING AND TAKING CARE OF ANY
-                                        NEEDS. A BIG THANKS TO THEM.</p><br>
+                                        NEEDS. A BIG THANKS TO THEM.</p>
 
                                     <em>
 
@@ -646,7 +646,7 @@
                                     <br>
                                     <p>PAITSON'S
                                         MEN WHO SERVICE MY FURNACE AND AC ARE GREAT! THEY ARE HELPFUL AND EXPLAIN WHAT
-                                        THEY DO THEY DO A GREAT JOB!</p><br>
+                                        THEY DO THEY DO A GREAT JOB!</p>
 
                                     <em>
 
@@ -660,7 +660,7 @@
                                     <p>WE
                                         HAVE ALWAY HAD GREAT SERVICE. THIS IS THE SECOND FURNACE WE HAVE PURCHASED FROM
                                         PAITSON BROS OVER MANY YEARS AND WE HAVE ALWAYS BEEN SATISFIED WITH THEIR
-                                        PRODUCT AND SERVICE.</p><br>
+                                        PRODUCT AND SERVICE.</p>
 
                                     <em>
 
@@ -673,7 +673,7 @@
                                     <br>
                                     <p>IT
                                         WAS A DIFFICULT INSTALL, AND THE GUYS WERE HARD WORKING AND
-                                        WONDERFUL!</p><br>
+                                        WONDERFUL!</p>
 
                                     <em>
 
@@ -686,7 +686,7 @@
                                     <br>
                                     <p>I
                                         REPLACED A 30 YEAR OLD LENNOX FURNACE AND AC WITH A NEW LENNOX FURNACE AND AC
-                                        AND THAT SAYS IT ALL.</p><br>
+                                        AND THAT SAYS IT ALL.</p>
 
                                     <em>
 
@@ -698,7 +698,7 @@
 
                                     <br>
                                     <p>VERY
-                                        PROFESSIONAL. POLITE, HELPFUL. VERY GOOD BUYING EXPERIENCE FOR US.</p><br>
+                                        PROFESSIONAL. POLITE, HELPFUL. VERY GOOD BUYING EXPERIENCE FOR US.</p>
 
                                     <em>
 
@@ -711,7 +711,7 @@
                                     <br>
                                     <p>I
                                         LOVE MY FURNACE AND I AM TOTALLY APPRECIATIVE AND LOYAL TO PAITSON'S. THANK
-                                        YOU.</p><br>
+                                        YOU.</p>
 
                                     <em>
 
@@ -724,7 +724,7 @@
                                     <br>
                                     <p>PAITSON
                                         BROS DID A GREAT JOB AND I WILL USE THEM AGAIN. ED, THE TECH IS
-                                        GREAT!</p><br>
+                                        GREAT!</p>
 
                                     <em>
 
@@ -736,7 +736,7 @@
 
                                     <br>
                                     <p>COMPLETELY
-                                        SATISFIED, THANK YOU!</p><br>
+                                        SATISFIED, THANK YOU!</p>
 
                                     <em>
 
@@ -749,7 +749,7 @@
                                     <br>
                                     <p>WE
                                         HAVE HAD A SERVICE CONTRACT WITH PAITSON'S FOR YEARS. MY LATE HUSBAND AND I
-                                        ALWAYS FELT WE WERE IN GOOD HANDS AND COULD SLEEP WELL.</p><br>
+                                        ALWAYS FELT WE WERE IN GOOD HANDS AND COULD SLEEP WELL.</p>
 
                                     <em>
 
@@ -763,7 +763,7 @@
                                     <p>I
                                         FIND IT RARE TO FIND ANYONE THESE DAYS TO HELP SOMEONE WITHOUT CHARGING A FEE.
                                         THANK YOU FOR YOUR KINDNESS WHEN YOU SHARED THE SHOE PROTECTORS.... I'M TELLING
-                                        EVERYONE TO COME TO YOU FOR HEATING &amp; AC NEEDS! BLESSINGS!</p><br>
+                                        EVERYONE TO COME TO YOU FOR HEATING &amp; AC NEEDS! BLESSINGS!</p>
 
                                     <em>
 
@@ -837,7 +837,7 @@
 
                                         SINCERELY,
 
-                                    </p><br>
+                                    </p>
 
                                     <em>
 
@@ -857,7 +857,7 @@
                                         I THANK YOU SO MUCH FOR YOUR "MUSCLES" WITH LUKE TODAY! YOU'RE A MAN FOR
                                         ALL REASONS.
 
-                                    </p><br>
+                                    </p>
 
                                     <em>
 
@@ -884,7 +884,7 @@
 
 
 
-                                        WE APPRECIATE THEIR DEDICATION</p><br>
+                                        WE APPRECIATE THEIR DEDICATION</p>
 
                                     <em>
 
@@ -934,7 +934,7 @@
 
 
                                         WE ARE INDEBTED TO YOUR PROFESSIONALISM, KINDNESS AND
-                                        SERVICE.</p><br>
+                                        SERVICE.</p>
 
                                     <em>
 
@@ -979,7 +979,7 @@
 
 
 
-                                        SINCERELY,</p><br>
+                                        SINCERELY,</p>
 
                                     <em>
 
@@ -1000,7 +1000,7 @@
                                         WAS ABLE TO FIND THE PROBLEM ORDER AND PICK UP THE PART AND
                                         DUSTY STOPPED BY THE LEND A HAND TO WITH THE FINAL PART
                                         INSTALLATION. GREAT JOB GUYS - THANK YOU AND BLESSINGS TO YOU
-                                        ALL AT PAITSONS! </p><br>
+                                        ALL AT PAITSONS! </p>
 
                                     <em>
 
@@ -1075,7 +1075,7 @@
 
 
 
-                                        THANK YOU AGAIN FOR THE FINE SERVICE.</p><br>
+                                        THANK YOU AGAIN FOR THE FINE SERVICE.</p>
 
                                     <em>
 
@@ -1106,7 +1106,7 @@
 
 
 
-                                        SINCERELY.</p><br>
+                                        SINCERELY.</p>
 
                                     <em>
 
@@ -1122,7 +1122,7 @@
                                     <p
                                         style="font-size:18px; margin-bottom: 05px; margin-top: 20px; display: inline-block;">
                                         I
-                                        HAVE BEEN WITH PAITSONS FOR OVER 50 YEARS</p><br>
+                                        HAVE BEEN WITH PAITSONS FOR OVER 50 YEARS</p>
 
 
 
@@ -1138,7 +1138,7 @@
                                     <p
                                         style="font-size:18px; margin-bottom: 05px; margin-top: 20px; display: inline-block;">
                                         PAITSON
-                                        BROS. IS THE BEST IN TOWN</p><br>
+                                        BROS. IS THE BEST IN TOWN</p>
 
 
 
@@ -1156,7 +1156,7 @@
                                         WE'VE
                                         USED PAITSONS FOR OTHER APPLICATIONS AS WELL AS HEATING AND AIR
                                         AND WE HAVE BEEN TOTALLY SATISFIED WITH THEM. WE WILL CONTINUE
-                                        TO USE THEM AND THEIR SERVICE.</p><br>
+                                        TO USE THEM AND THEIR SERVICE.</p>
 
 
 
@@ -1174,7 +1174,7 @@
                                         WE
                                         ARE FORTUNATE TO HAVE PAITSON BROTHERS HEATING AND AC. I HAVE
                                         DEALT WITH THEM FOR YEARS AND THERE SERVICE IS ALWAYS PROMPT,
-                                        COURTEOUS AND ABOVE ALL CONFIDENT.</p><br>
+                                        COURTEOUS AND ABOVE ALL CONFIDENT.</p>
 
 
 
@@ -1195,7 +1195,7 @@
                                         WITH CONCERNS. THIS NEW INSTALLER WORKED HARD TO FINISH THE
                                         WORK. THEY WERE PROFESSIONAL, COURTEOUS AND KIND. I MUCH
                                         APPRECIATE THEIR WORK. THEY HAVE SERVICED BOTH APPLIANCES IN THE
-                                        SAME WAY. I AM MOST APPRECIATIVE.</p><br>
+                                        SAME WAY. I AM MOST APPRECIATIVE.</p>
 
 
 
@@ -1212,7 +1212,7 @@
                                         style="font-size:18px; margin-bottom: 05px; margin-top: 20px; display: inline-block;">
                                         OUTSTANDING
                                         SERVICE FROM SALESMAN AND INSTALLERS. YOU CAN'T DO BETTER THAN
-                                        PAITSONS. I LOVE MY FURNACE!</p><br>
+                                        PAITSONS. I LOVE MY FURNACE!</p>
 
 
 
@@ -1231,7 +1231,7 @@
                                         PERSONNEL WERE ALWAYS POLITE AND THEY WERE CAREFUL TO KEEP MY
                                         CARPET CLEAN WHEN THEY ENTERED MY HOME. I ALWAYS FELT THE
                                         INSPECTIONS WERE WELL DONE. THEY ALWAYS RESPOND
-                                        PROMPTLY.</p><br>
+                                        PROMPTLY.</p>
 
 
 
@@ -1245,7 +1245,7 @@
                                         IN
                                         THE 53 YEARS WE HAVE LIVED HERE WE HAVE HAD 2 FURNACES AND AIR
                                         CONDITIONERS (LENNOX) AND WE HAVE HAD EXCELLENT SERVICE WITH
-                                        PAITSONS.</p><br>
+                                        PAITSONS.</p>
 
                                     <em>
 
@@ -1264,7 +1264,7 @@
                                         FAMILY HAS BEEN WITH PAITSONS HTG AND AC FOR MANY YEARS. THEY
                                         KEPT MY OLD FURNACE GOING 40 YEARS! IF OR WHEN THERE WAS A
                                         PROBLEM THEY WOULD ALWAYS CALL ME AND TELL ME WHEN THEY WOULD BE
-                                        AT OUR HOUSE. THE FELLOWS ARE VERY NICE.</p><br>
+                                        AT OUR HOUSE. THE FELLOWS ARE VERY NICE.</p>
 
                                     <em>
 
@@ -1282,7 +1282,7 @@
                                         I
                                         DON'T KNOW IF THEY COULD DO MUCH BETTER. THEY USUALLY HAVE THE
                                         SUPPLIES THEY NEED IF THEY NEED ANY AT ALL. IT'S HARD TO BEAT
-                                        THE JOB THEY DO.</p><br>
+                                        THE JOB THEY DO.</p>
 
                                     <em>
 
@@ -1300,7 +1300,7 @@
                                         PAITSONS
                                         HAVE ALWAYS BEEN A PLEASURE TO DO BUSINESS WITH. I HAVE NOTHING
                                         BUT GOOD WORDS FOR THEM. EXTREMELY SATISFIED WITH MY FURNACE AND
-                                        MAINTENANCE.</p><br>
+                                        MAINTENANCE.</p>
 
                                     <em>
 
@@ -1317,7 +1317,7 @@
                                         style="font-size:18px; margin-bottom: 05px; margin-top: 20px; display: inline-block;">
                                         COMPLETELY
                                         SATISFIED WITH SERVICE THEY ALWAYS COME WHEN CALLED. RATED 10
-                                        OVERALL.</p><br>
+                                        OVERALL.</p>
 
                                     <em>
 
@@ -1334,7 +1334,7 @@
                                         style="font-size:18px; margin-bottom: 05px; margin-top: 20px; display: inline-block;">
                                         THEY
                                         DID AN EXCELLENT JOB WITH THE INSTALLATION. IT WORKS
-                                        GREAT!</p><br>
+                                        GREAT!</p>
 
 
 
@@ -1350,7 +1350,7 @@
                                     <p
                                         style="font-size:18px; margin-bottom: 05px; margin-top: 20px; display: inline-block;">
                                         VERY
-                                        GOOD AND DEPENDABLE SERVICE.</p><br>
+                                        GOOD AND DEPENDABLE SERVICE.</p>
 
                                     <em>
 
@@ -1368,7 +1368,7 @@
                                         WE
                                         HAVE ALWAYS HAD GOOD SERVICE FROM PAITSON BROS. WHEN WE UPGRADE
                                         OUR SYSTEM I PLAN ON SEEING PAITSON BROS. TO DO THE
-                                        JOB</p><br>
+                                        JOB</p>
 
                                     <em>
 
@@ -1384,7 +1384,7 @@
                                         I
                                         HAVE ALWAYS GONE TO PAITSONS FOR LENNOX FURNACE AND AIR
                                         CONDITIONER.THEY ARE EXTREMELY REPUTABLE AND CARRY A QUALITY
-                                        LENNOX EQUIPMENT.</p><br>
+                                        LENNOX EQUIPMENT.</p>
 
 
 
@@ -1397,7 +1397,7 @@
                                         style="font-size:18px; margin-bottom: 05px; margin-top: 20px; display: inline-block;">
                                         JEFF
                                         PAITSON IS A HIGHLY KNOWLEDGEABLE PROFESSIONAL DEALER. WE ARE
-                                        100% COMPLETELY SATISFIED WITH DEALER.</p><br>
+                                        100% COMPLETELY SATISFIED WITH DEALER.</p>
 
                                     <em>
 
@@ -1415,7 +1415,7 @@
                                         WE
                                         HAVE RECOMMENDED PAITSON BROTHERS HEATING AND COOLING IN TERRE
                                         HAUTE, INDIANA TO OUR FRIENDS AND CO-WORKERS. EXCELLENT SERVICE
-                                        PROVIDERS-PROMPT AND COURTEOUS.</p><br>
+                                        PROVIDERS-PROMPT AND COURTEOUS.</p>
 
                                     <em>
 
@@ -1432,7 +1432,7 @@
                                         style="font-size:18px; margin-bottom: 05px; margin-top: 20px; display: inline-block;">
                                         SERVICE
                                         AND PEOPLE WERE EXCELLENT. I WILL CONTINUE TO DO BUSINESS HERE
-                                        IF THIS CONTINUES TO BE THE CASE.</p><br>
+                                        IF THIS CONTINUES TO BE THE CASE.</p>
 
                                     <em>
 
@@ -1452,7 +1452,7 @@
                                         WE
                                         HAD 2 LENNOX FURNACES PUT IN 31 YEARS AGO. THE FIRST FURNACE
                                         LASTED 29 YEARS. VERY GOOD SERVICE - THE DEALER TOOK VERY GOOD
-                                        CARE OF US.</p><br>
+                                        CARE OF US.</p>
 
                                     <em>
 
@@ -1468,7 +1468,7 @@
                                     <p
                                         style="font-size:18px; margin-bottom: 05px; margin-top: 20px; display: inline-block;">
                                         EXCELLENT
-                                        COMPANY</p><br>
+                                        COMPANY</p>
 
                                     <em>
 
@@ -1485,7 +1485,7 @@
                                         style="font-size:18px; margin-bottom: 05px; margin-top: 20px; display: inline-block;">
                                         MY
                                         FURNACES AND AIR CONDITIONING HAVE BEEN FROM PAITSON'S. I'M
-                                        ALWAYS HAPPY TO DEAL WITH THEM.</p><br>
+                                        ALWAYS HAPPY TO DEAL WITH THEM.</p>
 
                                     <em>
 
@@ -1503,7 +1503,7 @@
                                         SERVICEMAN CALLED ON HIS PHONE AND SUDDENLY THE HEAD SERVICEMAN
                                         AND ANOTHER WERE THERE IN MINUTES. THEY DID NOT LEAVE UNTIL IT
                                         WAS WORKING. I LIKE THAT KIND OF SERVICE. I HAVE ALREADY
-                                        RECOMMENDED THIS COMPANY TO FRIENDS AND FAMILY.</p><br>
+                                        RECOMMENDED THIS COMPANY TO FRIENDS AND FAMILY.</p>
 
                                     <em>
 
@@ -1520,7 +1520,7 @@
                                         style="font-size:18px; margin-bottom: 05px; margin-top: 20px; display: inline-block;">
                                         MY
                                         HUSBAND ALWAYS TRUSTED PAITSON BROS. SO WHEN I NEEDED HELP LAST
-                                        TIME I CALLED PAITSON. I WAS HAPPY WITH WORK DONE</p><br>
+                                        TIME I CALLED PAITSON. I WAS HAPPY WITH WORK DONE</p>
 
                                     <em>
 
@@ -1536,7 +1536,7 @@
                                     <p
                                         style="font-size:18px; margin-bottom: 05px; margin-top: 20px; display: inline-block;">
                                         ALL
-                                        VERY GOOD, DEPENDABLE, COURTEOUS, KNOWLEDGEABLE.</p><br>
+                                        VERY GOOD, DEPENDABLE, COURTEOUS, KNOWLEDGEABLE.</p>
 
                                     <em>
 
@@ -1553,7 +1553,7 @@
                                         style="font-size:18px; margin-bottom: 05px; margin-top: 20px; display: inline-block;">
                                         THEY
                                         ARE ALWAYS VERY PERSONABLE, NEAT, AND CARING. WE LOOK FORWARD TO
-                                        SEEING THEM.</p><br>
+                                        SEEING THEM.</p>
 
                                     <em>
 
@@ -1571,7 +1571,7 @@
                                         YOU
                                         DO A GREAT JOB! I LOVE THE FURNACE! HAVEN'T HAD AIR ON MUCH THIS
                                         SUMMER, BUT REALLY APPRECIATE HAVING THE MAINTENANCE AGREEMENT!
-                                        THANKS FOR YOUR SERVICE!</p><br>
+                                        THANKS FOR YOUR SERVICE!</p>
 
                                     <em>
 
@@ -1589,7 +1589,7 @@
                                         PAITSON
                                         BROTHERS AND LENNOX HAVE TAKEN CARE OF OUR HOME FOR OVER 30
                                         YEARS. THEIR SERVICE IS THE REASON WE PURCHASED NEW HEATING AND
-                                        A/C AGAIN.</p><br>
+                                        A/C AGAIN.</p>
 
                                     <em>
 
@@ -1605,7 +1605,7 @@
                                     <p
                                         style="font-size:18px; margin-bottom: 05px; margin-top: 20px; display: inline-block;">
                                         EXCELLENT!
-                                        SERVICE, KNOWLEDGE AND IDEAS.</p><br>
+                                        SERVICE, KNOWLEDGE AND IDEAS.</p>
 
                                     <em>
 
@@ -1623,7 +1623,7 @@
                                         PAITSON'S
                                         TECHNICIANS ARE WELL INFORMED ABOUT LENNOX PRODUCTS. WE ARE
                                         HAPPY CUSTOMERS! BOB KEHRT IS KNOWLEDGEABLE AND
-                                        FRIENDLY!</p><br>
+                                        FRIENDLY!</p>
 
                                     <em>
 
@@ -1641,7 +1641,7 @@
                                         PAITSON
                                         BROTHERS HEATING &amp; COOLING IS AN EXCELLENT COMPANY THAT WE
                                         HAVE USED FOR OVER 50 YEARS. I WOULD GIVE THEM AN A+
-                                        RATING.</p><br>
+                                        RATING.</p>
 
                                     <em>
 
@@ -1657,7 +1657,7 @@
                                     <p
                                         style="font-size:18px; margin-bottom: 05px; margin-top: 20px; display: inline-block;">
                                         PAITSON
-                                        BROS. ARE THE BEST.</p><br>
+                                        BROS. ARE THE BEST.</p>
 
                                     <em>
 
@@ -1675,7 +1675,7 @@
                                         OUR
                                         FIRST FURNACE FROM PAITSON'S LASTED 40 YEARS! WHY WOULDN'T I
                                         HAVE ANOTHER ONE FROM THEM? MY A/C IS ALSO FROM PAITSON. THEY
-                                        COME WHEN CALLED (NEEDED).</p><br>
+                                        COME WHEN CALLED (NEEDED).</p>
 
                                     <em>
 
@@ -1691,7 +1691,7 @@
                                     <p
                                         style="font-size:18px; margin-bottom: 05px; margin-top: 20px; display: inline-block;">
                                         I
-                                        WOULDN'T TRADE ANYWHERE ELSE. VERY FINE PEOPLE.</p><br>
+                                        WOULDN'T TRADE ANYWHERE ELSE. VERY FINE PEOPLE.</p>
 
                                     <em>
 
@@ -1708,7 +1708,7 @@
                                         style="font-size:18px; margin-bottom: 05px; margin-top: 20px; display: inline-block;">
                                         THIS
                                         IS A VERY DEPENDABLE COMPANY - WOULD RECOMMEND TO
-                                        ANYONE.</p><br>
+                                        ANYONE.</p>
 
                                     <em>
 
@@ -1754,7 +1754,7 @@
                                         SOME REALLY GOOD PEOPLE REPRESENTING PAITSON'S.
 
                                         FEEL FREE TO SHARE THIS WITH JOE AND BOB IF YOU LIKE. THANK
-                                        YOU,</p><br>
+                                        YOU,</p>
 
                                     <em>
 
@@ -1777,7 +1777,7 @@
                                         THE HURRY TIME OF THE HOLIDAYS, I'M NOT SURE I THANKED YOU FOR
                                         NOT CHARGING FOR THE WORK ON OUR DUCT SYSTEM. THE DAMPER FIXED
                                         THE PROBLEM COMPLETELY. IF I DID THANK YOU ALREADY - THANKS
-                                        AGAIN!</p><br>
+                                        AGAIN!</p>
 
                                     <em>
 
@@ -1797,7 +1797,7 @@
                                     <p
                                         style="font-size:18px; margin-bottom: 05px; margin-top: 20px; display: inline-block;">
                                         I
-                                        APPRECIATE THE GOOD PEOPLE WHO WORK FOR YOU.</p><br>
+                                        APPRECIATE THE GOOD PEOPLE WHO WORK FOR YOU.</p>
 
                                     <em>
 
@@ -1821,7 +1821,7 @@
                                         BRAD, AND LIKED THEM BOTH. ALSO, I APPRECIATE THE MESSAGE WITH
                                         THE RELIGIOUS SENTIMENT.
 
-                                        THANKS,</p><br>
+                                        THANKS,</p>
 
                                     <em>
 
@@ -1844,7 +1844,7 @@
                                         APPRECIATE THE PROMPT &amp; COURTEOUS SERVICE. YOUR SERVICE MEN
                                         ARE FINE YOUNG MEN.
 
-                                        THANK YOU</p><br>
+                                        THANK YOU</p>
 
                                     <em>
 
@@ -1875,7 +1875,7 @@
 
                                         BLESS YOU
 
-                                    </p><br>
+                                    </p>
 
                                     <em>
 
@@ -1906,7 +1906,7 @@
                                         I'M A CHRISTIAN AND I REALLY APPRECIATED THE NOTES ON YOUR
                                         STATEMENT ABOUT OUR LORD AND SAVIOR. THAT MEANT A LOT TO ME.
 
-                                        THANKS AGAIN,</p><br>
+                                        THANKS AGAIN,</p>
 
 
 
@@ -1938,7 +1938,7 @@
 
                                         BLESS YOU ALL
 
-                                    </p><br>
+                                    </p>
 
 
 
@@ -1981,7 +1981,7 @@
 
                                         WARMLY,
 
-                                    </p><br>
+                                    </p>
 
                                     <em>VERNON AND SHARON SHANNON
 
@@ -2009,7 +2009,7 @@
                                         YOU WILL CONTINUE TO HAVE OUR BUSINESS IN THE FUTURE. PLEASE SEE
                                         THAT HE GETS THIS ENCLOSED CARD.
 
-                                        THANK YOU !</p><br>
+                                        THANK YOU !</p>
 
 
 
@@ -2033,7 +2033,7 @@
                                         WANT YOUR SERVICE. YOU SERVED ME WELL FOR YEARS. THE OLD TEACHER
                                         WILL GIVE YOU AN A+. THANK YOU !
 
-                                    </p><br>
+                                    </p>
 
                                     <em>JAMES W. KERR
 
@@ -2052,7 +2052,7 @@
                                         YOU FOR YOUR GREAT &amp; PROMPT SERVICE. YOUR SERVICE MEN ARE
                                         SUCH NICE YOUNG MEN. I APPRECIATE YOU.
 
-                                        SINCERELY,</p><br>
+                                        SINCERELY,</p>
 
 
 
@@ -2077,7 +2077,7 @@
                                         JUST A NOTE OF THANKS FOR HAVING SUCH A QUALIFIED AND COURTEOUS
                                         PERSON BY THE NAME OF "MIKE", WHO INSTALLED A NEW MOTOR IN MY
                                         OUTSIDE (AIR CONDITIONING) UNIT. I WILL RECOMMEND YOU TO MY
-                                        FRIENDS AND FAMILY.</p><br>
+                                        FRIENDS AND FAMILY.</p>
 
 
 
@@ -2102,7 +2102,7 @@
                                         PAITSON'S ?? WE DON'T THINK SO. KEEP UP THE GOOD WORK. THANK YOU
                                         P.S. WE HAVE BEEN SENDING YOU SOME CUSTOMERS.
 
-                                    </p><br>
+                                    </p>
 
 
 
@@ -2126,7 +2126,7 @@
                                         EVER DID WORK FOR ME - THEY WERE VERY EFFICIENT AND EVEN CLEANED
                                         UP THE FLOOR. THANKS FOR SENDING THEM.
 
-                                    </p><br>
+                                    </p>
 
 
 
@@ -2154,7 +2154,7 @@
                                         WE HAVE BEEN VERY PLEASED WITH THE WORK AND SERVICE WE HAVE
                                         RECEIVED FROM YOU. IN THE FUTURE, SHOULD WE NEED A NEW FURNACE
                                         OR FURNACE/AC WORK, WE WOULDN'T HESITATE TO CONTACT YOUR
-                                        COMPANY.</p><br>
+                                        COMPANY.</p>
 
 
 
@@ -2179,7 +2179,7 @@
                                         YOUR EMPLOYEES WHO INSTALLED OUR FURNACE WERE ESPECIALLY NICE
                                         FRIENDLY MEN TO BE AROUND. WE APPRECIATE THE GOOD JOB THEY DID.
 
-                                        SINCERELY,</p><br>
+                                        SINCERELY,</p>
 
 
 
@@ -2206,7 +2206,7 @@
                                         AND REPLACING THE DUCT WORK. THE NOISE LEVEL HAS DROPPED TO THE
                                         LEVEL THAT I HAVE TO TURN THE TV OFF TO TELL IF IT IS WORKING.
                                         YOU ARE DOING THE RIGHT THING IN TRAINING YOUR
-                                        PEOPLE.</p><br>
+                                        PEOPLE.</p>
 
 
 
@@ -2228,7 +2228,7 @@
                                         I
                                         APPRECIATE VERY MUCH YOUR PROMPT SERVICE &amp; YOUR COURTEOUS
 
-                                        OFFICE GIRLS &amp; SERVICE MEN. THANK YOU,</p><br>
+                                        OFFICE GIRLS &amp; SERVICE MEN. THANK YOU,</p>
 
 
 
@@ -2252,7 +2252,7 @@
                                         AND HIS HELPER WAS VERY GOOD. AND YOUR GIRLS WHO ANSWER YOUR
                                         PHONE ARE VERY GRACIOUS.
 
-                                        SINCERELY,</p><br>
+                                        SINCERELY,</p>
 
 
 
