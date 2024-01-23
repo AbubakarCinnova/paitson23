@@ -17,24 +17,31 @@
                         <div class="row">
                             <div class="col-sm-12">
                                 <h1>Specials</h1>
-                                <img src="<?php echo $base_url ?>/img/Lennox_salebanner.png"
-                                    alt="What's on Sale banner">
+                                <img src="<?php echo $base_url ?>/img/Lennox_salebanner.png" alt="What's on Sale banner"
+                                    style="width:100%;">
                                 <br>
                             </div>
 
                             <div class="col-md-6">
-                                <img src="<?php echo $base_url ?>/img/1 (1).png" alt="AC installed ">
+                                <img src="<?php echo $base_url ?>/img/1 (1).png" alt="AC installed " width="300">
+                                <br>
                                 <p>* Some Restrictions apply, contact us for more information</p>
+                                <br>
                             </div>
                             <div class="col-md-6">
-                                <img src="<?php echo $base_url ?>/img/2 (1).png" alt="Furnace Installed">
+                                <img src="<?php echo $base_url ?>/img/2 (1).png" alt="Furnace Installed" width="300">
+                                <br>
                                 <p>** Some Restrictions apply, contact us for more information</p>
+                                <br>
                             </div>
                             <div class="col-md-6">
-                                <img src="<?php echo $base_url ?>/img/3 (1).png" alt="Furnace and AC Installed">
+                                <img src="<?php echo $base_url ?>/img/3 (1).png" alt="Furnace and AC Installed"
+                                    width="300">
+                                <br>
                             </div>
 
                             <div class="col-sm-12">
+                                <br>
                                 <p>*** Offer applies only to single-receipt qualifying purchases.
                                     Some Restrictions apply, contact us for more information
                                     Monthly interest will be assessed on promo purchases from the purchase date at a
