@@ -23,20 +23,22 @@
                             </div>
 
                             <div class="col-md-6 text-center">
-                                <img src="<?php echo $base_url ?>/img/1 (1).png" alt="AC installed " width="300">
+                                <img src="<?php echo $base_url ?>/img/1 (1).png" alt="AC installed "
+                                    style="width:100%;">
                                 <br><br>
                                 <p>* Some Restrictions apply, contact us for more information</p>
                                 <br>
                             </div>
                             <div class="col-md-6 text-center">
-                                <img src="<?php echo $base_url ?>/img/2 (1).png" alt="Furnace Installed" width="300">
+                                <img src="<?php echo $base_url ?>/img/2 (1).png" alt="Furnace Installed"
+                                    style="width:100%;">
                                 <br><br>
                                 <p>** Some Restrictions apply, contact us for more information</p>
                                 <br>
                             </div>
                             <div class="col-md-6 text-center">
                                 <img src="<?php echo $base_url ?>/img/3 (1).png" alt="Furnace and AC Installed"
-                                    width="300">
+                                    style="width:100%;">
                                 <br>
                             </div>
 
