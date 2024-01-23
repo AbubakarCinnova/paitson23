@@ -55,7 +55,11 @@
 
                                 <p><strong>For a Free No Obligation In-Home Estimate</strong></p>
 
-                                ---Schedule Now Button---
+                                <br>
+                                <a href="<?php echo $base_url ?>/contact-us.php" class="btn btn-warning">Schedule
+                                    Now</a>
+                                <br>
+
 
                                 <p><strong>Or</strong></p>
 
