@@ -202,7 +202,7 @@
 
                     </div>
                     <div class="col-md-6 ">
-                        <img src="<?php echo $base_url ?>/img/paitson bros terre haute-min.jpeg" alt=""
+                        <img src="<?php echo $base_url ?>/img/Paitson bros Terre Haute (2).jpeg" alt=""
                             style="width:100%;">
                     </div>
                 </div>
