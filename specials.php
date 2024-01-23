@@ -58,7 +58,7 @@
                                 <br>
                                 <a href="<?php echo $base_url ?>/contact-us.php" class="btn btn-warning">Schedule
                                     Now</a>
-                                <br><br><br>
+                                <br><br>
 
 
                                 <p><strong>Or</strong></p>
