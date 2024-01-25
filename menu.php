@@ -104,6 +104,7 @@
                         <li><a href="<?php echo $base_url ?>/maintenance-plan.php">Maintenance Plan</a></li>
                         <!-- <li><a href="<?php echo $base_url ?>/water-heater.php">Water Heaters</a></li> -->
                         <li><a href="<?php echo $base_url ?>/repair-services.php">Repair Services</a></li>
+                        <li><a href="<?php echo $base_url ?>/hvac-construction.php">New HVAC Construction</a></li>
                     </ul>
                 </li>
 
