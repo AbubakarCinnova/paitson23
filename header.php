@@ -8,7 +8,7 @@
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="google-site-verification" content="de073gIEjMxoaGj0MEMEj0Uom_LA8aiKNsTURixNjZI" />
-    <link rel="icon" type="image/x-icon" href="<?php echo $base_url ?>/img/favicon.png">
+    <link rel="icon" type="image/x-icon" href="<?php echo $base_url ?>/img/favicon-icon.png">
 
     <!-- bootstrap css -->
     <script src="https://www.google.com/recaptcha/api.js" async defer></script>
