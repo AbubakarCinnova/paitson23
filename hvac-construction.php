@@ -97,7 +97,8 @@
 
                                 <div class="video-container">
                                     <iframe src="https://player.vimeo.com/video/904507083?h=bf3c552e47" frameborder="0"
-                                        allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+                                        width="640" height="360" allow="autoplay; fullscreen; picture-in-picture"
+                                        allowfullscreen></iframe>
                                 </div>
 
 
