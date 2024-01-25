@@ -21,7 +21,7 @@
 
                                 <img src="<?php echo $base_url ?>/img/comerial-banner (1).png"
                                     alt="Commercial HVAC page banner" class="full-width-img">
-                                <br>
+                                <br> <br>
                                 <p>Welcome to Paitson Bros. Heating and Air Conditioning, your premier partner for
                                     Commercial HVAC solutions. Our mission is to redefine comfort in your business
                                     space,
