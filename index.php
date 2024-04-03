@@ -174,24 +174,23 @@
                 <div class="row">
                     <div class="col-md-6">
 
-                        <h2>A Century of Comfort, A Legacy of Excellence!
+                        <h2>A Century of Comfort, A Legacy of Excellence! </h2>
 
-                        </h2>
-                        <p>Experience a Century of Comfort and bask in the Legacy of Excellence with Paitson Bros.
-                            Heating and Air Conditioning, the foremost HVAC company in the Terre Haute area. Since our
+                        <p>Experience a Century of Comfort and Excellence with Paitson Bros. Heating and Air
+                            Conditioning, the Wabash Valley's foremost HVAC and whole home generator company. Since our
                             establishment in 1922, we have taken immense pride in serving the local community with
-                            exceptional heating and air conditioning services. Over the years, we've grown to become the
-                            benchmark of excellence in heating and cooling contractors in the Wabash Valley. Many of our
-                            best customers have been working with us for decades — and that's just the relationship we
-                            want with you.
+                            exceptional heating, air conditioning, and power generation services. Over the years, we've
+                            grown to become the benchmark of excellence in heating and cooling contractors in the Wabash
+                            Valley. Many of our best customers have been working with us for decades — that's just the
+                            relationship we want with you.
 
                         </p>
                         <p>As a family-owned and operated business, our reputation is built on delivering high quality,
                             unbeatable value, and ensuring a worry-free customer experience. Our certified HVAC
                             technicians, standing at the top of their field, continually receive training to enhance
-                            their knowledge. Whether you require routine HVAC maintenance, furnace repairs, AC service,
-                            or the top-notch installation of high-efficiency home comfort systems, discover the Paitson
-                            difference in our commitment to excellence.
+                            their knowledge. Whether you require routine HVAC maintenance, furnace repairs, air
+                            conditioning service, or the top-notch installation of high-efficiency home comfort systems,
+                            discover the Paitson Bros. difference in our commitment to excellence.
                         </p>
                         <p>Additionally, as a trusted Generac PowerPro dealer, we offer Automatic Whole Home Generators
                             to keep your home fully powered during storms and outages. Secure comfort and security for
