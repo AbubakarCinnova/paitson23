@@ -72,66 +72,59 @@
 
                     <li><a href="<?php echo $base_url ?>/"><img src="<?php echo $base_url ?>/img/home_1.png"></a></li>
 
-                    <li><a href="<?php echo $base_url ?>/about.php">About</a>
+                    <li><a href="<?php echo $base_url ?>/about.php">About</a></li>
+
+                    <li><a href="<?php echo $base_url ?>/heating.php">Heating</a>
+
                         <ul class="dropdown-menu">
-                            <li><a href="<?php echo $base_url ?>/being-green.php">Being Green</a></li>
-                            <!--   <li><a href="<?php echo $base_url ?>/why-choose-us.php">Why Choose Us</a></li> -->
-                            <li><a href="<?php echo $base_url ?>/testimonials.php">Testimonials</a></li>
+                            <li><a href="<?php echo $base_url ?>/heat-pumps.php">Heat Pumps</a></li>
+                            <li><a href="<?php echo $base_url ?>/furnaces.php">Gas Furnaces </a></li>
+                            <li><a href="<?php echo $base_url ?>/smart-thermostats.php">Smart Thermostats</a></li>
+                            <!--  <li><a href="<?php echo $base_url ?>/radiant-heating.php"> Radiant Heating </a></li> -->
+                        </ul>
+                    </li>
+
+                    <li><a href="<?php echo $base_url ?>/cooling.php" class="dropdown-toggle">Cooling</a>
+                        <ul class="dropdown-menu">
+                            <li><a href="<?php echo $base_url ?>/mini-splits.php">Ductless Mini Split</a></li>
+                            <li><a href="<?php echo $base_url ?>/air-conditioners.php">Air Conditioners</a></li>
+                            <li><a href="<?php echo $base_url ?>/smart-thermostats.php">Smart Thermostats</a></li>
+                        </ul>
+
+                    <li><a class="dropdown-toggle">Services</a>
+                        <ul class="dropdown-menu">
+                            <li><a href="<?php echo $base_url ?>/install-guide.php">Install Guide</a></li>
+                            <li><a href="<?php echo $base_url ?>/maintenance-plan.php">Maintenance Plan</a></li>
+                            <!-- <li><a href="<?php echo $base_url ?>/water-heater.php">Water Heaters</a></li> -->
+                            <li><a href="<?php echo $base_url ?>/repair-services.php">Repair Services</a></li>
+                            <li><a href="<?php echo $base_url ?>/hvac-construction.php">New HVAC Construction</a></li>
+                        </ul>
+                    </li>
+
+                    <li><a href="<?php echo $base_url ?>/commercial.php" class="dropdown-toggle">Commercial</a>
+
+                    <li><a href="<?php echo $base_url ?>/air-quality.php" class="dropdown-toggle">Air Quality</a>
+                        <ul class="dropdown-menu">
+                            <li><a href="<?php echo $base_url ?>/duct-cleaning.php">Duct Cleaning</a></li>
+                        </ul>
+                    </li>
+
+                    <li><a href="<?php echo $base_url ?>/generators.php">Generators</a></li>
+
+                    <li><a href="<?php echo $base_url ?>/financing.php" class="dropdown-toggle">Financing</a>
 
                     </li>
-                </ul>
 
-                <li><a href="<?php echo $base_url ?>/heating.php">Heating</a>
+                    <li><a href="<?php echo $base_url ?>/specials.php">Specials</a></li>
 
-                    <ul class="dropdown-menu">
-                        <li><a href="<?php echo $base_url ?>/heat-pumps.php">Heat Pumps</a></li>
-                        <li><a href="<?php echo $base_url ?>/furnaces.php">Gas Furnaces </a></li>
-                        <li><a href="<?php echo $base_url ?>/smart-thermostats.php">Smart Thermostats</a></li>
-                        <!--  <li><a href="<?php echo $base_url ?>/radiant-heating.php"> Radiant Heating </a></li> -->
-                    </ul>
-                </li>
+                    <li><a href="<?php echo $base_url ?>/contact-us.php">Contact</a>
 
-                <li><a href="<?php echo $base_url ?>/cooling.php" class="dropdown-toggle">Cooling</a>
-                    <ul class="dropdown-menu">
-                        <li><a href="<?php echo $base_url ?>/mini-splits.php">Ductless Mini Split</a></li>
-                        <li><a href="<?php echo $base_url ?>/air-conditioners.php">Air Conditioners</a></li>
-                        <li><a href="<?php echo $base_url ?>/smart-thermostats.php">Smart Thermostats</a></li>
-                    </ul>
-
-                <li><a class="dropdown-toggle">Services</a>
-                    <ul class="dropdown-menu">
-                        <li><a href="<?php echo $base_url ?>/install-guide.php">Install Guide</a></li>
-                        <li><a href="<?php echo $base_url ?>/maintenance-plan.php">Maintenance Plan</a></li>
-                        <!-- <li><a href="<?php echo $base_url ?>/water-heater.php">Water Heaters</a></li> -->
-                        <li><a href="<?php echo $base_url ?>/repair-services.php">Repair Services</a></li>
-                        <li><a href="<?php echo $base_url ?>/hvac-construction.php">New HVAC Construction</a></li>
-                    </ul>
-                </li>
-
-                <li><a href="<?php echo $base_url ?>/commercial.php" class="dropdown-toggle">Commercial</a>
-
-                <li><a href="<?php echo $base_url ?>/air-quality.php" class="dropdown-toggle">Air Quality</a>
-                    <ul class="dropdown-menu">
-                        <li><a href="<?php echo $base_url ?>/duct-cleaning.php">Duct Cleaning</a></li>
-                    </ul>
-                </li>
-
-                <li><a href="<?php echo $base_url ?>/generators.php">Generators</a></li>
-
-                <li><a href="<?php echo $base_url ?>/financing.php" class="dropdown-toggle">Financing</a>
-
-                </li>
-
-                <li><a href="<?php echo $base_url ?>/specials.php">Specials</a></li>
-
-                <li><a href="<?php echo $base_url ?>/contact-us.php">Contact</a>
-
-                    <!--     <ul class="dropdown-menu">
+                        <!--     <ul class="dropdown-menu">
 
             <li><a href="<?php echo $base_url ?>/request-estimate.php">Request Estimate</a></li>
             <li><a href="<?php echo $base_url ?>/request-service.php">Request Service</a></li>
           </ul> -->
-                </li>
+                    </li>
                 </ul>
 
             </div>
