@@ -24,8 +24,7 @@
                             <div class="col-sm-12">
 
                                 <img src="<?php echo $base_url ?>/img/duelfuel_1000X350 (1).png"
-                                    alt="pic Stanley Steemer" style=" width: 100%; padding-top: 20px;"
-                                    class="duct-clean-img">
+                                    alt="pic Stanley Steemer" style=" width: 100%; padding-top: 20px;">
                                 <br>
 
                                 <h2>The Dual-Fuel Versatility of Heat Pumps in Indiana Homes</h2>
