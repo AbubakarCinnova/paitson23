@@ -44,8 +44,8 @@
 
 
                                 <img src="<?php echo $base_url ?>/img/gen-1.jpg" alt="pic generator "
-                                    style=" width: 100%; padding-top: 20px;" class="duct-clean-img">
-                                <br><br>
+                                    style=" width: 100%; padding: 20px;" class="duct-clean-img">
+                                <br>
 
                                 <h2>Here are some of the advantages of having an Automatic Whole Home Generator:</h2>
 
