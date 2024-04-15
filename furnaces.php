@@ -1,10 +1,10 @@
 <?php include_once('header.php') ?>
 
-<title>Paitson Bros. Heating and Air Conditioning | Furnaces</title>
+<title>Paitson Bros. Heating and Air Conditioning| Furnaces</title>
 <meta name="rating" content="general" />
 
 <meta name="description"
-    content="When it comes to getting the best high-efficiency furnace or furnace repair in Terre Haute, the only name you need to know is Paitson Bros. Heating and Air Conditioning.">
+    content=" When getting the best high-efficiency furnace or furnace repair in Terre Haute, the only name you need to know is Paitson Bros. Heating and Air Conditioning.">
 <meta name="revisit-after" content="3 days" />
 <meta name="robots" content="index, follow" />
 
@@ -23,73 +23,49 @@
                             <div class="col-sm-12">
 
 
+                                <img src="<?php echo $base_url ?>/img/lennox furnace banner.jpg" alt="furnace banner"
+                                    class="Lennox-Furnace.png">
 
-                                <h1>Gas Furnaces</h1>
+                                <h2>Optimizing Home Heating: A Guide to Gas Furnace Efficiency</h2>
 
-                                <!-- <img src="<?php echo $base_url ?>/img/lennox furnace banner.jpg"
-                                    alt="furnace banner" class="full-width-img"> -->
+                                <p>Gas furnaces come in various types, each offering different levels of efficiency and
+                                    performance. The efficiency of a furnace is measured by its AFUE rating, which
+                                    compares its annual heat output to its fuel consumption.</p>
+
+                                <ul>
+                                    <li><strong>Variable Capacity Furnaces (Modulating Gas Furnaces):</strong> These
+                                        advanced systems adjust
+                                        their output between 35% and 100% depending on heating demand, offering high
+                                        efficiency
+                                        (up to 99%).</li>
+                                    <li><strong>Two-Stage Furnaces:</strong> These have two output levels, providing
+                                        energy savings and better
+                                        comfort by running at a lower speed during mild weather and at full capacity
+                                        during
+                                        colder days.</li>
+                                    <li><strong>Variable Speed Furnaces:</strong> These systems use a variable-speed
+                                        blower motor to adjust
+                                        airflow, improving temperature control, indoor air quality, and energy
+                                        efficiency
+                                        compared to traditional fixed-speed furnaces.</li>
+                                    <li><strong>Single Stage Furnaces:</strong> The most basic and affordable option,
+                                        but less energy-efficient
+                                        since they use the same flame size regardless of temperature.</li>
+                                </ul>
 
                                 <br>
-                                <p>When you own a home, one of the most challenging choices you'll face regarding your
-                                    furnace is determining when it's necessary to replace your heating system. If you're
-                                    conducting online research or have come across discussions on variable
-                                    speed heating, single-stage, two-stage, and modulating gas valves, as well as AFUE
-                                    ratings, allow us to assist you by providing explanations for these furnace systems
-                                    and relevant terminology.</p>
 
-                                <h2>Furnace Efficiency Rating AFUE</h2>
-                                <p>AFUE (annual fuel utilization efficiency) measures the efficiency of modern furnaces
-                                    by comparing the furnace's annual heat output to its total fossil fuel consumption.
-                                    A furnace with a 99 AFUE rating returns 99 cents of heat per dollar spent, while 1
-                                    cent is lost. The AFUE rating doesn't include heat loss through ducts.</p>
+                                <p>Paitson Bros. Heating and Air Conditioning provides tailored heating solutions,
+                                    considering factors like home dimensions, climate, and occupants' habits to offer
+                                    cost-effective and energy-efficient options, backed by over a century of commitment
+                                    to exceptional customer service.</p>
 
-                                <h2>Variable Capacity Furnaces also called Modulating Gas Furnaces</h2>
-                                <p>A variable capacity furnace, also known as a modulating gas furnace, is an advanced
-                                    type of heating system that adjusts its output between 35% and 100% depending on the
-                                    heating demand. This allows it to use only the amount of fuel necessary to maintain
-                                    the desired temperature. These furnaces are among the most energy-efficient on the
-                                    market, with an efficiency rating of 99%.</p>
-
-                                <h2>Two Stage Furnace</h2>
-                                <p>A two-stage furnace has two heat output levels, one for mild and one for cold
-                                    weather. It saves energy and reduces noise by running at a lower speed during mild
-                                    weather and provides more heat during cold days by running at full capacity. This
-                                    leads to energy savings and better comfort. Though it has a higher initial cost, it
-                                    saves on monthly heating bills.</p>
-
-                                <h2>Variable Speed Furnace</h2>
-                                <p>A variable-speed furnace is a type of heating system that uses a variable-speed
-                                    blower motor to adjust the airflow through the furnace. This allows the furnace to
-                                    adjust the fan speed based on heating demand, resulting in better temperature
-                                    control, improved indoor air quality, and consistent temperature, and reduces the
-                                    number of times the furnace has to cycle on and off. This makes it more
-                                    energy-efficient and cost-effective than traditional, fixed-speed furnaces.</p>
-
-                                <h2>Single Stage Furnaces</h2>
-                                <p>The single-stage furnace is the most basic and affordable option among all types of
-                                    furnaces. It is also the simplest in terms of technology. However, this simplicity
-                                    comes at a cost of energy efficiency, resulting in higher monthly utility bills.
-                                    This is because a single-stage furnace uses the same flame size to produce heat,
-                                    regardless of the temperature inside or outside.</p>
-
-                                <h2>Crafting Tailored Heating Solutions for Over 100 Years</h2>
-                                <p>For over a century, Paitson Bros. Heating and Air Conditioning has excelled in
-                                    designing customized heating solutions for homes, carefully considering factors such
-                                    as residence dimensions, layout, climate, insulation, and occupants' habits. Our
-                                    primary aim is to pinpoint the most cost-effective and energy-efficient option
-                                    tailored to your unique requirements. Upholding stringent standards in product
-                                    recommendations, we provide detailed explanations, suggestions, and load
-                                    calculations to ensure the equipment is precisely sized for your home. Ultimately,
-                                    our commitment spans generations, delivering exceptional customer service and
-                                    fostering enduring relationships with our esteemed clients for over a century.</p>
-
-                                <p> <strong>The amended Energy Efficient Home Improvement Credit, which began in 2023
-                                        and extends
-                                        through 2032, increases the tax credits to as high as $600 for qualified air
-                                        conditioners, gas furnaces, or boilers and up to $2000 for qualified heat
-                                        pumps.</strong></p>
+                                <p><strong>The amended Energy Efficient Home Improvement Credit, which began in 2023,
+                                        increases the tax credits to as high as $600 for qualified air conditioners, gas
+                                        furnaces and up to $2000 for qualified heat pumps.</strong></p>
 
                                 <h1>Our Most Popular Lennox Gas Furnaces</h1>
+
 
                                 <h2>Lennox SLP99V Variable-Capacity Gas Furnace</h2>
                                 <ul>
@@ -100,40 +76,24 @@
                                     <li>Blower Motor: Variable Speed</li>
                                     <li>Air Filter and Humidifier Compatible</li>
                                     <li>Ultra-Low Continuous Fan</li>
+                                    <li>Tax Credit Eligible</li>
                                     <li>Ignition SureLight Silicon Nitride Ignitor</li>
                                     <li>Limited Lifetime Warranty on Heat Exchanger. 10-Year Limited Warranty on covered
                                         components.</li>
-                                    <li>Warranty Limited Lifetime Warranty</li>
-                                    <li>Tax Credit Eligible</li>
                                 </ul>
-
-                                <h2>Lennox EL297V High-Efficiency, Two-Stage Gas Furnace</h2>
-                                <ul>
-                                    <li>Up to 97% AFUE</li>
-                                    <li>Energy Star Rated</li>
-                                    <li>Stages of Heating: Two Stages</li>
-                                    <li>SilentComfort Technology and Sound Absorbing Insulation</li>
-                                    <li>Blower Motor: Variable Speed</li>
-                                    <li>Air Filter and Humidifier Compatible</li>
-                                    <li>Ultra-Low Continuous Fan</li>
-                                    <li>Ignition SureLight Silicon Nitride Ignitor</li>
-                                    <li>5-Year Limited Warranty on covered components. This product may be eligible for
-                                        valuable 10-Year Limited Extended Warranty coverage with product registration.
-                                    </li>
-                                    <li>Heat Exchanger Warranty Limited Lifetime Warranty</li>
-                                    <li>Tax Credit Eligible</li>
-                                </ul>
+                                <p>Warranty: Limited Lifetime Warranty</p>
 
                                 <h2>Lennox ML296V Variable Speed Two-Stage Gas Furnace</h2>
                                 <ul>
                                     <li>Up to 96% AFUE</li>
                                     <li>Energy Star Rated</li>
                                     <li>Stages of Heating: Two Stages</li>
-                                    <li>Steel Cabinet</li>
+                                    <li>Fully Insulated Cabinet</li>
                                     <li>Blower Motor: Variable Speed</li>
                                     <li>Air Filter and Humidifier Compatible</li>
                                     <li>Ultra-Low Continuous Fan</li>
                                     <li>Dual Fuel Capable</li>
+                                    <li>Tax Credit Eligible</li>
                                     <li>Ignition SureLight Silicon Nitride Ignitor</li>
                                     <li>5-Year Limited Warranty on covered components. This product may be eligible for
                                         valuable 10-Year Limited Extended Warranty coverage with product registration.
@@ -141,24 +101,29 @@
                                     <li>Heat Exchanger: 20-Year Limited Warranty</li>
                                 </ul>
 
-                                <h2>Lennox ML180V Gas Furnace</h2>
+                                <h2>Lennox ML196E Gas Furnace</h2>
                                 <ul>
-                                    <li>Up to 80% AFUE</li>
+                                    <li>96% AFUE</li>
+                                    <li>Energy Star Rated</li>
                                     <li>Stages of Heating: Single Stage</li>
-                                    <li>Steel Cabinet</li>
-                                    <li>Variable Speed Motor</li>
+                                    <li>Fully Insulated Cabinet</li>
+                                    <li>Power Saver™ Constant Torque</li>
                                     <li>Ultra-Low Continuous Fan</li>
                                     <li>Air Filter and Humidifier Compatible</li>
                                     <li>Ignition SureLight Silicon Nitride Ignitor</li>
-                                    <li>5-Year Limited Warranty on covered components. This product may be eligible for
-                                        valuable 10-Year Limited Extended Warranty coverage with product registration.
-                                    </li>
-                                    <li>Heat Exchanger Warranty 20-Year Limited Warranty</li>
+                                    <li>Dual-Fuel Capable</li>
+                                    <li>Tax Credit Eligible</li>
+                                    <li>The warranty on covered components is 5 years, compressor is covered for 10
+                                        years. Warranty on furnace heat exchanger is 20 years or lifetime depending on
+                                        model.</li>
+                                    <li>Heat Exchanger: Limited Lifetime Warranty</li>
                                 </ul>
+
                                 <br>
 
-                                <p>When it comes to getting the best high-efficiency furnace or furnace repair in Terre
-                                    Haute, the only name you need to know is Paitson Bros. Heating and Air Conditioning.
+
+                                <p>When getting the best high-efficiency furnace or furnace repair in Terre Haute, the
+                                    only name you need to know is Paitson Bros. Heating and Air Conditioning.
                                 </p>
 
                                 <br>
