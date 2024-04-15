@@ -18,13 +18,16 @@
                             <div class="col-sm-12">
 
 
-                                <!-- <img src="<?php echo $base_url ?>/img/lennox furnace banner.jpg"
-                                    alt="furnace banner" class="full-width-img"> -->
+                                <img src="<?php echo $base_url ?>/img/repair-banner.png" alt="repair-banner"
+                                    class="full-width-img">
+
+                                <br>
 
                                 <h2>Repair Services</h2>
                                 <p>We provide 24-hour emergency services and work on brands of residential and
                                     commercial heating and cooling equipment.</p>
-                                <p>For Emergency Service, Toll-Free: <strong>(800) 533-0711</strong> Right Now!</p>
+
+                                <p>For Emergency Service, Call: <strong>(812) 232-2347</strong> Right Now!</p>
 
                                 <h2>FURNACE REPAIR SERVICES</h2>
                                 <p>At Paitson Bros. Heating and Air Conditioning, our trained technicians will expertly
