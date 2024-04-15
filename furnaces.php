@@ -23,8 +23,8 @@
                             <div class="col-sm-12">
 
 
-                                <img src="<?php echo $base_url ?>/img/lennox furnace banner.jpg" alt="furnace banner"
-                                    class="Lennox-Furnace.png">
+                                <img src="<?php echo $base_url ?>/img/Lennox-Furnace.png" alt="furnace banner"
+                                    class="full-width-img">
 
                                 <h2>Optimizing Home Heating: A Guide to Gas Furnace Efficiency</h2>
 
@@ -80,8 +80,8 @@
                                     <li>Ignition SureLight Silicon Nitride Ignitor</li>
                                     <li>Limited Lifetime Warranty on Heat Exchanger. 10-Year Limited Warranty on covered
                                         components.</li>
+                                    <li>Warranty: Limited Lifetime Warranty</li>
                                 </ul>
-                                <p>Warranty: Limited Lifetime Warranty</p>
 
                                 <h2>Lennox ML296V Variable Speed Two-Stage Gas Furnace</h2>
                                 <ul>
