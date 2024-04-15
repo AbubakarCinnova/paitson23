@@ -136,11 +136,12 @@
                 </div>
                 <div class="col-lg-2 col-sm-4">
                     <div class="text-center blue-boxes">
-                        <a href="<?php echo $base_url; ?>/financing.php">
+                        <a href="<?php echo $base_url; ?>/generators.php">
                             <div class="icon" style="cursor: pointer;">
-                                <img src="<?php echo $base_url; ?>/img/Asset 2.png" alt="" class="img-responsive">
+                                <img src="<?php echo $base_url; ?>/img/generac 1.png" alt="" class="img-responsive">
                             </div>
-                            <h4>Financing</h4>
+                            <h4>
+                                Generators</h4>
                             <p> </p>
                         </a>
                     </div>
