@@ -19,9 +19,9 @@
 
 
                                 <img src="<?php echo $base_url ?>/img/repair-banner.png" alt="repair-banner"
-                                    class="full-width-img">
+                                    style=" width: 100%; padding: 20px;" class="duct-clean-img">
 
-                                <br>
+
 
                                 <h2>Repair Services</h2>
                                 <p>We provide 24-hour emergency services and work on brands of residential and
