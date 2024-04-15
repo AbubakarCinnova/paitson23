@@ -45,6 +45,7 @@
 
                                 <img src="<?php echo $base_url ?>/img/gen-1.jpg" alt="pic generator "
                                     style=" width: 100%; padding-top: 20px;" class="duct-clean-img">
+                                <br><br>
 
                                 <h2>Here are some of the advantages of having an Automatic Whole Home Generator:</h2>
 
@@ -138,17 +139,18 @@
                                 <a href="https://generac.paitson.com/" class="btn btn-warning" target="_blank"> Explore
                                     our
                                     Generator models</a>
-                                <br>
-
+                                <br><br><br>
 
                                 <div class="video-container">
-                                    <iframe width="350" height="315" src="https://www.youtube.com/embed/g3h2Lc-ewxw"
+                                    <iframe width="450" height="280" src="https://www.youtube.com/embed/g3h2Lc-ewxw"
                                         title="Generac - What to Expect from Your Free In-Home Assessment"
                                         frameborder="0"
                                         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                                         referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
                                 </div>
+
+                                <br>
 
 
 
