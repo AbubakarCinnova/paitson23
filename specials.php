@@ -65,8 +65,10 @@
 
                                 <p><strong>Call Right Now</strong></p>
 
-                                <p><a href="tel:+18122322347">812-232-2347</a> or toll-free <a
-                                        href="tel:+18005330711">1-800-533-0711</a></p>
+                                <p><a href="tel:+18122322347">812-232-2347</a>
+                                    <!-- or toll-free <a
+                                        href="tel:+18005330711">1-800-533-0711</a> -->
+                                </p>
 
                                 <p><strong>Paitson Bros. Heating and Air Conditioning: A Century of Comfort, A Legacy of
                                         Excellence</strong></p>
