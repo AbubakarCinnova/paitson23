@@ -17,11 +17,15 @@
                             <div class="col-sm-12">
                                 <h2>Residential Air Duct Cleaning</h2>
 
+                                <img src="<?php echo $base_url ?>/img/Mite_E_Ducts logo.png" alt="pic Mite_E_Ducts"
+                                    style=" width: 200px;">
+                                <br>
+
                                 <p><strong>Paitson Bros. Heating and Air Conditioning can help you get cleaner air into
-                                        your home.
-                                        We’re proud to partner with Stanley Steemer to provide you with duct cleaning
-                                        services
-                                        to ensure you are getting the cleanest air possible into your home.</strong></p>
+                                        your home. We’re proud to partner with Mite-E-Ducts in Indiana and Stanley
+                                        Steemer In Illinois to provide you with duct cleaning services to ensure you are
+                                        getting the cleanest air possible into your home.</strong></p>
+
 
                                 <img src="<?php echo $base_url ?>/img/stanley_steamer.png" alt="pic Stanley Steemer"
                                     style=" width: 100%; padding-top: 20px;" class="duct-clean-img">
@@ -62,7 +66,7 @@
                                 </ul>
 
                                 <br>
-                                <p><strong>We love Stanley Steemer. We know you will too!</strong></p>
+                                <p><strong>We love Mite-E-Ducts and Stanley Steemer. We know you will too!</strong></p>
 
 
                                 <br>
