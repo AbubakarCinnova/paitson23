@@ -19,7 +19,7 @@
 
                                 <img src="<?php echo $base_url ?>/img/Mite_E_Ducts logo.png" alt="pic Mite_E_Ducts"
                                     style=" width: 200px;">
-                                <br>
+                                <br><br>
 
                                 <p><strong>Paitson Bros. Heating and Air Conditioning can help you get cleaner air into
                                         your home. We’re proud to partner with Mite-E-Ducts in Indiana and Stanley
