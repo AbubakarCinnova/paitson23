@@ -18,6 +18,10 @@
                         <div class="row">
                             <div class="col-sm-12">
 
+                                <img src="<?php echo $base_url ?>/img/Generac-Banner (1).jpg" alt="generator banner"
+                                    style=" width: 100%; padding-top: 20px;">
+                                <br>
+
                                 <h1>Automatic Whole Home Generators</h1>
 
                                 <p>Experience the unmatched convenience and assurance of Automatic Whole Home Generators
@@ -37,6 +41,10 @@
                                     Generators with Paitson Bros., ensuring uninterrupted power for your home in
                                     challenging
                                     times.</p>
+
+
+                                <img src="<?php echo $base_url ?>/img/gen-1.jpg" alt="pic generator "
+                                    style=" width: 100%; padding-top: 20px;" class="duct-clean-img">
 
                                 <h2>Here are some of the advantages of having an Automatic Whole Home Generator:</h2>
 
@@ -131,6 +139,18 @@
                                     our
                                     Generator models</a>
                                 <br>
+
+
+                                <div class="video-container">
+                                    <iframe width="350" height="315" src="https://www.youtube.com/embed/g3h2Lc-ewxw"
+                                        title="Generac - What to Expect from Your Free In-Home Assessment"
+                                        frameborder="0"
+                                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                                        referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+                                </div>
+
+
 
 
 
