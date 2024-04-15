@@ -98,7 +98,7 @@
 
 
 
-                                <h2>Tailored Heating Solutions</h2>
+                                <h2>Tailored Cooling Solutions</h2>
 
                                 <p> With a century of business experience, Paitson Bros. Heating and Air Conditioning
                                     specialize in personalized home comfort solutions. Taking into consideration
@@ -160,17 +160,17 @@
                                         product registration.</li>
                                 </ul>
 
-                                <h2>LENNOX MODEL EL16XC1</h2>
+                                <h2>LENNOX MODEL ML14XC1</h2>
                                 <ul>
                                     <li>High-Efficiency Air Conditioner</li>
-                                    <li>17 SEER</li>
+                                    <li> 17 SEER</li>
                                     <li>Stages of Cooling Single Stage</li>
-                                    <li>ENERGY STAR®</li>
-                                    <li>Sound Level As low as 71 dBA</li>
-                                    <li>PermaGuard Cabinet and SmartHinge Louver Design</li>
-                                    <li>R-410A refrigerant</li>
-                                    <li>Tax Credit Eligible</li>
-                                    <li>Elite models come with a 10-Year Limited Warranty on compressors and a 5-Year
+                                    <li> ENERGY STAR®</li>
+                                    <li> Sound Level As low as 73 dBA</li>
+                                    <li> PermaGuard Cabinet</li>
+                                    <li> R-410A refrigerant</li>
+                                    <li> All Merit models come with a 5-Year Limited Warranty on compressors and a
+                                        5-Year
                                         Limited Warranty on covered components. A 10-Year Extended Limited Warranty is
                                         available with product registration.</li>
                                 </ul>
