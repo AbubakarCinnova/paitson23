@@ -6,7 +6,7 @@
 
                 <h3>About Us</h3>
                 <p><img src="<?php echo $base_url ?>/img/footer-logo.png" width="150"></p>
-                <p><img src="<?php echo $base_url ?>/img/premier dealer.jpg" width="220"></p>
+                <p><img src="<?php echo $base_url ?>/img/19_premier_dealer_logo_white-png.png" width="220"></p>
                 <p><img src="<?php echo $base_url ?>/img/Generac Logo.webp" width="220"
                         style="mix-blend-mode: difference;"></p>
                 <!--  <p class="light">"When brothers Bob and Stanley Paitson started their heating and hardware business in
