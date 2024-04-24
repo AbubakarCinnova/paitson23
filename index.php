@@ -287,11 +287,11 @@
 
                 </div>
 
-                <div class="col-sm-12 text-center">
+                <!--         <div class="col-sm-12 text-center">
 
                     <a href="<?php echo $base_url ?>/testimonials.php" class="btn btn-warning">Read More</a>
 
-                </div>
+                </div> -->
             </div>
         </section>
 
